@@ -1,11 +1,16 @@
-# Ignore compiled files
-*.js
-!jest.config.js
-*.d.ts
-
 # Ignore dependencies
 node_modules/
 
-# Ignore CDK build artifacts
+# Ignore compiled JS files (but keep config files)
+*.js
+!jest.config.js
+
+# Ignore TypeScript definition files
+*.d.ts
+
+# Ignore CDK output artifacts
 .cdk.staging/
 cdk.out/
+
+# Ignore AWS credentials files (optional, if accidentally placed)
+*.aws
