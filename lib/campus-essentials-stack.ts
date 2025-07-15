@@ -1,16 +1,31 @@
 import * as cdk from 'aws-cdk-lib';
 import { Construct } from 'constructs';
-// import * as sqs from 'aws-cdk-lib/aws-sqs';
-
+import * as dynamodb from 'aws-cdk-lib/aws-dynamodb';
+import * as lambda from 'aws-cdk-lib/aws-lambda';
+import * as iam from 'aws-cdk-lib/aws-iam';
 export class CampusEssentialsStack extends cdk.Stack {
   constructor(scope: Construct, id: string, props?: cdk.StackProps) {
     super(scope, id, props);
 
-    // The code that defines your stack goes here
+    // Define a DynamoDB table
+    const table = new dynamodb.Table(this, 'EssentialsTable', {
+      partitionKey: { name: 'id', type: dynamodb.AttributeType.STRING },
+      billingMode: dynamodb.BillingMode.PAY_PER_REQUEST,
+      tableName: 'campus-essentials',
+      removalPolicy: cdk.RemovalPolicy.DESTROY, // NOT recommended for production
+    });
+      // Define Lambda function
+    const essentialsLambda = new lambda.Function(this, 'EssentialsHandler', {
+      runtime: lambda.Runtime.NODEJS_18_X,
+      handler: 'index.handler',
+      code: lambda.Code.fromAsset('lambda'),   // folder name
+      environment: {
+        TABLE_NAME: table.tableName,            // pass table name to Lambda
+      },
+    });
 
-    // example resource
-    // const queue = new sqs.Queue(this, 'CampusEssentialsQueue', {
-    //   visibilityTimeout: cdk.Duration.seconds(300)
-    // });
+    // Give Lambda permission to read/write DynamoDB table
+    table.grantReadWriteData(essentialsLambda);
+    
   }
 }

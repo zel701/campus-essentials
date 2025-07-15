@@ -1,8 +1,11 @@
+# Ignore compiled files
 *.js
 !jest.config.js
 *.d.ts
-node_modules
 
-# CDK asset staging directory
-.cdk.staging
-cdk.out
+# Ignore dependencies
+node_modules/
+
+# Ignore CDK build artifacts
+.cdk.staging/
+cdk.out/
