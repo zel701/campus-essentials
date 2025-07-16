@@ -3,6 +3,7 @@ import { Construct } from 'constructs';
 import * as dynamodb from 'aws-cdk-lib/aws-dynamodb';
 import * as lambda from 'aws-cdk-lib/aws-lambda';
 import * as iam from 'aws-cdk-lib/aws-iam';
+import * as apigateway from 'aws-cdk-lib/aws-apigateway';
 export class CampusEssentialsStack extends cdk.Stack {
   constructor(scope: Construct, id: string, props?: cdk.StackProps) {
     super(scope, id, props);
@@ -27,5 +28,16 @@ export class CampusEssentialsStack extends cdk.Stack {
     // Give Lambda permission to read/write DynamoDB table
     table.grantReadWriteData(essentialsLambda);
     
+    // Create API Gateway REST API resource backed by our Lambda function
+  const api = new apigateway.LambdaRestApi(this, 'CampusEssentialsApi', {
+    handler: essentialsLambda,
+    proxy: false,  // Disable automatic catch-all routing
+  });
+
+  // Create a specific resource path: POST /items
+  const items = api.root.addResource('items');
+  items.addMethod('POST');  // Allow POST requests
+  items.addMethod('GET'); // Allow Get
+  items.addMethod('DELETE'); //Allow delete
   }
 }
