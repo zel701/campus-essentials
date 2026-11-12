@@ -25,12 +25,9 @@ import sys
 from dataclasses import dataclass, asdict
 from typing import List, Optional
 
-COURSE_HEADER_RE = re.compile(r"^(?P<subject>[A-Z]{3,5})\s+(?P<number>\d{3})\.\s+(?P<title>.+?)\.$")
+COURSE_HEADER_RE = re.compile(r"^(?P<subject>[A-Z]{2,5})\s+(?P<number>\d{3,4})\.\s+(?P<title>.+?)\.$")
 UNITS_RE = re.compile(r"^(?P<units>\d+(?:-\d+)?)\s+unit(?:s)?$", re.IGNORECASE)
 TERM_RE = re.compile(r"^Term Typically Offered:\s*(?P<term>.+)$", re.IGNORECASE)
-PREREQ_RE = re.compile(r"^Prerequisite:\s*(?P<text>.+)$", re.IGNORECASE)
-RECOMMENDED_RE = re.compile(r"^Recommended:\s*(?P<text>.+)$", re.IGNORECASE)
-COREQ_RE = re.compile(r"^Corequisite:\s*(?P<text>.+)$", re.IGNORECASE)
 
 
 @dataclass
@@ -57,7 +54,7 @@ def parse_courses(lines: List[str]) -> List[Course]:
             courses.append(current)
 
     for raw in lines:
-        line = raw.strip()
+        line = raw.lstrip("\ufeff").strip()
         if not line:
             # keep paragraph breaks within description by adding a space later
             if desc_lines and desc_lines[-1] != "":
@@ -87,15 +84,13 @@ def parse_courses(lines: List[str]) -> List[Course]:
         if (mt := TERM_RE.match(line)):
             current.term = mt.group("term").strip()
             continue
-        if (mp := PREREQ_RE.match(line)):
-            # concatenate if repeated
-            current.prerequisite = (current.prerequisite + " " + mp.group("text").strip()).strip()
-            continue
-        if (mr := RECOMMENDED_RE.match(line)):
-            current.recommended = (current.recommended + " " + mr.group("text").strip()).strip()
-            continue
-        if (mc := COREQ_RE.match(line)):
-            current.corequisite = (current.corequisite + " " + mc.group("text").strip()).strip()
+        # Catalog text sometimes puts several requirement labels on one line.
+        if re.match(r"^(Prerequisite|Recommended|Corequisite):", line, re.IGNORECASE):
+            parts = re.split(r"(Prerequisite|Recommended|Corequisite):\s*", line, flags=re.IGNORECASE)
+            for index in range(1, len(parts), 2):
+                field = parts[index].lower()
+                value = parts[index + 1].strip()
+                setattr(current, field, (getattr(current, field) + " " + value).strip())
             continue
 
         # otherwise, part of description
@@ -119,6 +114,7 @@ def main():
 
     writer = csv.DictWriter(
         sys.stdout,
+        lineterminator="\n",
         fieldnames=[
             "subject",
             "number",

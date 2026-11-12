@@ -1,0 +1,804 @@
+{
+  "schemaVersion": 1,
+  "scope": {
+    "institution": "SLCMP",
+    "termId": "2268",
+    "campus": "MAIN",
+    "subject": "AG",
+    "courseNumber": null,
+    "includeClosed": true
+  },
+  "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+  "mode": "live",
+  "capturePath": "data/sections/.runs/pipeline/20261030T010334-9bc0d1bf/AG/.runs/extract-1/20261030T010338-841952b9/capture.json",
+  "generatedAt": "2026-10-30T01:04:16.137Z",
+  "complete": true,
+  "contentSha256": "43c6d3fff17902948af573fa1ea137a97933a72ac2a63186f9d143593d43f83a",
+  "sectionCount": 17,
+  "courseCount": 5,
+  "termLabel": "Cal Poly | Fall Semester 2026",
+  "sections": [
+    {
+      "subject": "AG",
+      "number": "2200",
+      "title": "Special Problems for Undergraduates",
+      "crn": "1510",
+      "sectionNumber": "S01",
+      "component": "IND",
+      "session": "Regular",
+      "id": "scheduleSection:48b8c706f6259081b1a6fef447cbaffc868c21dbc7d6b1d7dd986ab05c2be0e9",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 - 3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Ben Londo",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$0",
+        "retrievedAt": "2026-10-30T01:03:43.292Z",
+        "sha256": "ebad6d753d75a5ac759b0eba7000a7e15c240c0b6f5d93738dddaaea695c97c2",
+        "evidenceFile": "0001.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010334-9bc0d1bf/AG/.runs/extract-1/20261030T010338-841952b9/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AG",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "6a6b56b2f02fd38838cd8f35656f5ca2d1dccd743558095978669e08aa5d635b"
+      },
+      "firstSeenAt": "2026-10-30T01:03:43.292Z",
+      "updatedAt": "2026-10-30T01:03:43.292Z",
+      "lastSeenAt": "2026-10-30T01:03:43.292Z"
+    },
+    {
+      "subject": "AG",
+      "number": "2243",
+      "title": "Practical Applications in Rodeo",
+      "crn": "1512",
+      "sectionNumber": "S01",
+      "component": "ACT",
+      "session": "Regular",
+      "id": "scheduleSection:cb4f60e21eb2a517e1dac1fb7d044f43a426e24db7cec57be962320b3f99493e",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "2 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 10:00AM - 11:50AM",
+          "room": "Rodeo Arena 077 -0001",
+          "instructor": "Ben Londo",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$1",
+        "retrievedAt": "2026-10-30T01:03:45.191Z",
+        "sha256": "da611d76cd905b287079c6ccdb0fdc92490219e1429aea1dcc5b2aa798e90f82",
+        "evidenceFile": "0003.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010334-9bc0d1bf/AG/.runs/extract-1/20261030T010338-841952b9/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AG",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "6a6b56b2f02fd38838cd8f35656f5ca2d1dccd743558095978669e08aa5d635b"
+      },
+      "firstSeenAt": "2026-10-30T01:03:45.191Z",
+      "updatedAt": "2026-10-30T01:03:45.191Z",
+      "lastSeenAt": "2026-10-30T01:03:45.191Z"
+    },
+    {
+      "subject": "AG",
+      "number": "4400",
+      "title": "Special Problems for Advanced Undergraduates",
+      "crn": "1511",
+      "sectionNumber": "S01",
+      "component": "IND",
+      "session": "Regular",
+      "id": "scheduleSection:c6106058a2616bfa26dbd2a581513923fa104049ecbdbca155bfab9684d5f72c",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 - 3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Ben Londo",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$2",
+        "retrievedAt": "2026-10-30T01:03:47.286Z",
+        "sha256": "d71c0abf23d8c7772070c89a9962282145734cf4126de71a885b9620d04866d0",
+        "evidenceFile": "0005.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010334-9bc0d1bf/AG/.runs/extract-1/20261030T010338-841952b9/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AG",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "6a6b56b2f02fd38838cd8f35656f5ca2d1dccd743558095978669e08aa5d635b"
+      },
+      "firstSeenAt": "2026-10-30T01:03:47.286Z",
+      "updatedAt": "2026-10-30T01:03:47.286Z",
+      "lastSeenAt": "2026-10-30T01:03:47.286Z"
+    },
+    {
+      "subject": "AG",
+      "number": "4400",
+      "title": "Special Problems for Advanced Undergraduates",
+      "crn": "12956",
+      "sectionNumber": "S02",
+      "component": "IND",
+      "session": "Regular",
+      "id": "scheduleSection:4b51dec35e0e05b4b4a673a6df8eab987f120b7714524eeeff9c9b1a6491fa88",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 - 3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Sandy Shen",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$3",
+        "retrievedAt": "2026-10-30T01:03:49.239Z",
+        "sha256": "17087355a53b3ba0205f6714805afa1229e0f1acd7b0b2ef9d92b2590f7a855c",
+        "evidenceFile": "0007.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010334-9bc0d1bf/AG/.runs/extract-1/20261030T010338-841952b9/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AG",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "6a6b56b2f02fd38838cd8f35656f5ca2d1dccd743558095978669e08aa5d635b"
+      },
+      "firstSeenAt": "2026-10-30T01:03:49.239Z",
+      "updatedAt": "2026-10-30T01:03:49.239Z",
+      "lastSeenAt": "2026-10-30T01:03:49.239Z"
+    },
+    {
+      "subject": "AG",
+      "number": "5500",
+      "title": "Individual Study",
+      "crn": "1501",
+      "sectionNumber": "S01",
+      "component": "IND",
+      "session": "Regular",
+      "id": "scheduleSection:e3954efbbb873852fd3a6e16bdd32f05d487157466b850f45fe993f78cb648e0",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 - 3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Fernando Campos Chillon",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$4",
+        "retrievedAt": "2026-10-30T01:03:51.650Z",
+        "sha256": "5210e7d90ec6b32ed3c0d9527bf73d7e0e3e8509a4cc681139b71f9046611f2f",
+        "evidenceFile": "0009.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010334-9bc0d1bf/AG/.runs/extract-1/20261030T010338-841952b9/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AG",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "6a6b56b2f02fd38838cd8f35656f5ca2d1dccd743558095978669e08aa5d635b"
+      },
+      "firstSeenAt": "2026-10-30T01:03:51.650Z",
+      "updatedAt": "2026-10-30T01:03:51.650Z",
+      "lastSeenAt": "2026-10-30T01:03:51.650Z"
+    },
+    {
+      "subject": "AG",
+      "number": "5500",
+      "title": "Individual Study",
+      "crn": "1502",
+      "sectionNumber": "S02",
+      "component": "IND",
+      "session": "Regular",
+      "id": "scheduleSection:93cbfae6a748400fae9b9768016933ca6688927a37e2e113fb90456122b3fc78",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 - 3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Zachary McFarlane",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$5",
+        "retrievedAt": "2026-10-30T01:03:53.751Z",
+        "sha256": "23b3b7d281dd44caf2961d11a6401884cc2734cd2389f2ee8787d28513d6c850",
+        "evidenceFile": "0011.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010334-9bc0d1bf/AG/.runs/extract-1/20261030T010338-841952b9/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AG",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "6a6b56b2f02fd38838cd8f35656f5ca2d1dccd743558095978669e08aa5d635b"
+      },
+      "firstSeenAt": "2026-10-30T01:03:53.751Z",
+      "updatedAt": "2026-10-30T01:03:53.751Z",
+      "lastSeenAt": "2026-10-30T01:03:53.751Z"
+    },
+    {
+      "subject": "AG",
+      "number": "5500",
+      "title": "Individual Study",
+      "crn": "1503",
+      "sectionNumber": "S03",
+      "component": "IND",
+      "session": "Regular",
+      "id": "scheduleSection:e7a17f2a95f00d68a2ee0ea1fe195096ef92f03e7843fca55160ee86ec53bc5f",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 - 3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Ike Kang",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$6",
+        "retrievedAt": "2026-10-30T01:03:55.488Z",
+        "sha256": "ef67993b00d5a03b82a2db8669051e2f80e0605fdcdaf07d8cb7f251626bd0bc",
+        "evidenceFile": "0013.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010334-9bc0d1bf/AG/.runs/extract-1/20261030T010338-841952b9/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AG",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "6a6b56b2f02fd38838cd8f35656f5ca2d1dccd743558095978669e08aa5d635b"
+      },
+      "firstSeenAt": "2026-10-30T01:03:55.488Z",
+      "updatedAt": "2026-10-30T01:03:55.488Z",
+      "lastSeenAt": "2026-10-30T01:03:55.488Z"
+    },
+    {
+      "subject": "AG",
+      "number": "5500",
+      "title": "Individual Study",
+      "crn": "1504",
+      "sectionNumber": "S04",
+      "component": "IND",
+      "session": "Regular",
+      "id": "scheduleSection:7f6826fd483cfc3ec90f8ca6de2e05bfce2b2d0ba683cb74fc579bf52b8ab7f2",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 - 3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Ben Swan",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$7",
+        "retrievedAt": "2026-10-30T01:03:57.876Z",
+        "sha256": "e8825b3a38f3acd215df49856eb399351865679a9ddd5758860a50420019cd66",
+        "evidenceFile": "0015.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010334-9bc0d1bf/AG/.runs/extract-1/20261030T010338-841952b9/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AG",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "6a6b56b2f02fd38838cd8f35656f5ca2d1dccd743558095978669e08aa5d635b"
+      },
+      "firstSeenAt": "2026-10-30T01:03:57.876Z",
+      "updatedAt": "2026-10-30T01:03:57.876Z",
+      "lastSeenAt": "2026-10-30T01:03:57.876Z"
+    },
+    {
+      "subject": "AG",
+      "number": "5500",
+      "title": "Individual Study",
+      "crn": "1505",
+      "sectionNumber": "S05",
+      "component": "IND",
+      "session": "Regular",
+      "id": "scheduleSection:358f86ed7633d015bd9d7e9571ce0671a58f1f7ed561ad355eaae454ca60245d",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 - 3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Darin Bennett",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$8",
+        "retrievedAt": "2026-10-30T01:03:59.551Z",
+        "sha256": "34d4a191a2407254f2b499e7ae8e3d31dfec27839fc0233573a9dc1e791dbd17",
+        "evidenceFile": "0017.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010334-9bc0d1bf/AG/.runs/extract-1/20261030T010338-841952b9/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AG",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "6a6b56b2f02fd38838cd8f35656f5ca2d1dccd743558095978669e08aa5d635b"
+      },
+      "firstSeenAt": "2026-10-30T01:03:59.551Z",
+      "updatedAt": "2026-10-30T01:03:59.551Z",
+      "lastSeenAt": "2026-10-30T01:03:59.551Z"
+    },
+    {
+      "subject": "AG",
+      "number": "5500",
+      "title": "Individual Study",
+      "crn": "12887",
+      "sectionNumber": "S06",
+      "component": "IND",
+      "session": "Regular",
+      "id": "scheduleSection:13922dd7ccd0a172cf58ca90a33e2ad91a88dd404e0291b46c4f65640410b221",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 - 3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Shashika Hewavitharana",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$9",
+        "retrievedAt": "2026-10-30T01:04:01.935Z",
+        "sha256": "bae27dc7bdff5eb634a1d2f7b367ff2fb4f7624a8e8ee83723ddf3e0073f7fe6",
+        "evidenceFile": "0019.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010334-9bc0d1bf/AG/.runs/extract-1/20261030T010338-841952b9/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AG",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "6a6b56b2f02fd38838cd8f35656f5ca2d1dccd743558095978669e08aa5d635b"
+      },
+      "firstSeenAt": "2026-10-30T01:04:01.935Z",
+      "updatedAt": "2026-10-30T01:04:01.935Z",
+      "lastSeenAt": "2026-10-30T01:04:01.935Z"
+    },
+    {
+      "subject": "AG",
+      "number": "5500",
+      "title": "Individual Study",
+      "crn": "12923",
+      "sectionNumber": "S07",
+      "component": "IND",
+      "session": "Regular",
+      "id": "scheduleSection:254a4a2ca7153e390f8fd8c09b6c408b79e871d0ef37b008f4b4dee90c993325",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 - 3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Mohammed Abo Ismail",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$10",
+        "retrievedAt": "2026-10-30T01:04:04.086Z",
+        "sha256": "65c987cd620711f647aa241d6cc8e6cd3f3c961cb48de9dfc64bad72111dd7f7",
+        "evidenceFile": "0021.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010334-9bc0d1bf/AG/.runs/extract-1/20261030T010338-841952b9/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AG",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "6a6b56b2f02fd38838cd8f35656f5ca2d1dccd743558095978669e08aa5d635b"
+      },
+      "firstSeenAt": "2026-10-30T01:04:04.086Z",
+      "updatedAt": "2026-10-30T01:04:04.086Z",
+      "lastSeenAt": "2026-10-30T01:04:04.086Z"
+    },
+    {
+      "subject": "AG",
+      "number": "5599",
+      "title": "Thesis",
+      "crn": "1506",
+      "sectionNumber": "S01",
+      "component": "IND",
+      "session": "Regular",
+      "id": "scheduleSection:abaa8fb0b775f78c8784cf0e4c00511108e16c83938973f29e8dd88daf1d541d",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 - 6 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Ike Kang",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$11",
+        "retrievedAt": "2026-10-30T01:04:06.134Z",
+        "sha256": "d339a3d5c61744c94bb996666c1549bd5399b1715958bd7f4064118982b8f274",
+        "evidenceFile": "0023.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010334-9bc0d1bf/AG/.runs/extract-1/20261030T010338-841952b9/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AG",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "6a6b56b2f02fd38838cd8f35656f5ca2d1dccd743558095978669e08aa5d635b"
+      },
+      "firstSeenAt": "2026-10-30T01:04:06.134Z",
+      "updatedAt": "2026-10-30T01:04:06.134Z",
+      "lastSeenAt": "2026-10-30T01:04:06.134Z"
+    },
+    {
+      "subject": "AG",
+      "number": "5599",
+      "title": "Thesis",
+      "crn": "1507",
+      "sectionNumber": "S02",
+      "component": "IND",
+      "session": "Regular",
+      "id": "scheduleSection:a93b950c466d0560c26fb67889cf6833e01c9b975f2593aa20e6e5affdf6b132",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 - 6 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Fernando Campos Chillon",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$12",
+        "retrievedAt": "2026-10-30T01:04:07.949Z",
+        "sha256": "17838cb792070364c99f7d49b54edb30e0267deca209a114efc27dda80ed3c41",
+        "evidenceFile": "0025.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010334-9bc0d1bf/AG/.runs/extract-1/20261030T010338-841952b9/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AG",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "6a6b56b2f02fd38838cd8f35656f5ca2d1dccd743558095978669e08aa5d635b"
+      },
+      "firstSeenAt": "2026-10-30T01:04:07.949Z",
+      "updatedAt": "2026-10-30T01:04:07.949Z",
+      "lastSeenAt": "2026-10-30T01:04:07.949Z"
+    },
+    {
+      "subject": "AG",
+      "number": "5599",
+      "title": "Thesis",
+      "crn": "1508",
+      "sectionNumber": "S03",
+      "component": "IND",
+      "session": "Regular",
+      "id": "scheduleSection:2fac7a2e991794055275837202aa675b40baa6494f7b72421b13455cf8be7fb5",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 - 6 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Zachary McFarlane",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$13",
+        "retrievedAt": "2026-10-30T01:04:10.467Z",
+        "sha256": "25d13e0aeef9852c7e43113e0a386e86b67836510dc947719e2a3ac1ea3e0866",
+        "evidenceFile": "0027.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010334-9bc0d1bf/AG/.runs/extract-1/20261030T010338-841952b9/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AG",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "6a6b56b2f02fd38838cd8f35656f5ca2d1dccd743558095978669e08aa5d635b"
+      },
+      "firstSeenAt": "2026-10-30T01:04:10.467Z",
+      "updatedAt": "2026-10-30T01:04:10.467Z",
+      "lastSeenAt": "2026-10-30T01:04:10.467Z"
+    },
+    {
+      "subject": "AG",
+      "number": "5599",
+      "title": "Thesis",
+      "crn": "1509",
+      "sectionNumber": "S04",
+      "component": "IND",
+      "session": "Regular",
+      "id": "scheduleSection:bf6ad235b0867cd17ac0b2c0e606d68f155add3a774d9a04860efe7f8abf5dbf",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 - 6 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Darin Bennett",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$14",
+        "retrievedAt": "2026-10-30T01:04:12.106Z",
+        "sha256": "aad35273272b7b73e2ce211323da64281cc064a721a56a355386c2fb855fb350",
+        "evidenceFile": "0029.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010334-9bc0d1bf/AG/.runs/extract-1/20261030T010338-841952b9/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AG",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "6a6b56b2f02fd38838cd8f35656f5ca2d1dccd743558095978669e08aa5d635b"
+      },
+      "firstSeenAt": "2026-10-30T01:04:12.106Z",
+      "updatedAt": "2026-10-30T01:04:12.106Z",
+      "lastSeenAt": "2026-10-30T01:04:12.106Z"
+    },
+    {
+      "subject": "AG",
+      "number": "5599",
+      "title": "Thesis",
+      "crn": "12720",
+      "sectionNumber": "S05",
+      "component": "IND",
+      "session": "Regular",
+      "id": "scheduleSection:1772fbbb1a21d6cdd80c3dac437710ed32fdc835cb5fad398e158db95211d8b7",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 - 6 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Dan Peterson",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$15",
+        "retrievedAt": "2026-10-30T01:04:14.068Z",
+        "sha256": "0ebafa733fa68fabd44b91bb35576ee425542fa677eee506abef66bc2cebafae",
+        "evidenceFile": "0031.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010334-9bc0d1bf/AG/.runs/extract-1/20261030T010338-841952b9/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AG",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "6a6b56b2f02fd38838cd8f35656f5ca2d1dccd743558095978669e08aa5d635b"
+      },
+      "firstSeenAt": "2026-10-30T01:04:14.068Z",
+      "updatedAt": "2026-10-30T01:04:14.068Z",
+      "lastSeenAt": "2026-10-30T01:04:14.068Z"
+    },
+    {
+      "subject": "AG",
+      "number": "5599",
+      "title": "Thesis",
+      "crn": "12924",
+      "sectionNumber": "S06",
+      "component": "IND",
+      "session": "Regular",
+      "id": "scheduleSection:ee7424c62461a0803cb02ceac8cb50bcf3d90f77cff35d90e9dfa85cbe150b6d",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 - 6 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Mohammed Abo Ismail",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$16",
+        "retrievedAt": "2026-10-30T01:04:16.125Z",
+        "sha256": "68519e0e5a37cf5e3def0839698e989792fd0693d363cbb6ebfbbdfbcfa797b9",
+        "evidenceFile": "0033.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010334-9bc0d1bf/AG/.runs/extract-1/20261030T010338-841952b9/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AG",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "6a6b56b2f02fd38838cd8f35656f5ca2d1dccd743558095978669e08aa5d635b"
+      },
+      "firstSeenAt": "2026-10-30T01:04:16.125Z",
+      "updatedAt": "2026-10-30T01:04:16.125Z",
+      "lastSeenAt": "2026-10-30T01:04:16.125Z"
+    }
+  ]
+}

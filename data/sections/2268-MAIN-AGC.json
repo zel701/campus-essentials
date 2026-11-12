@@ -1,0 +1,1221 @@
+{
+  "schemaVersion": 1,
+  "scope": {
+    "institution": "SLCMP",
+    "termId": "2268",
+    "campus": "MAIN",
+    "subject": "AGC",
+    "courseNumber": null,
+    "includeClosed": true
+  },
+  "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+  "mode": "live",
+  "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+  "generatedAt": "2026-10-30T10:56:11.530Z",
+  "complete": true,
+  "contentSha256": "0ccb7e546c698760d6b3176a4a7207255e217d2c46d9d41870228cc938595de0",
+  "sectionCount": 26,
+  "courseCount": 13,
+  "termLabel": "Cal Poly | Fall Semester 2026",
+  "sections": [
+    {
+      "subject": "AGC",
+      "number": "1102",
+      "title": "Orientation to Agricultural Communication & Agricultural Science",
+      "crn": "1454",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:90a1963ebe48d26a773ce916037b782c46d7ef50b95c89a289d978db0116263e",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Th 3:00PM - 3:50PM",
+          "room": "Baker Ctr Sci & Math 180 -0101",
+          "instructor": "Ben Swan",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$0",
+        "retrievedAt": "2026-10-30T01:07:05.915Z",
+        "sha256": "35477bab10e55b5fb1de0cd1d8cf63dd88729717109e2cacac0c5bf8cf9104b5",
+        "evidenceFile": "0001.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:05.915Z",
+      "updatedAt": "2026-10-30T01:07:05.915Z",
+      "lastSeenAt": "2026-10-30T01:07:05.915Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "2205",
+      "title": "Agricultural Communications",
+      "crn": "1471",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:59b1a6c1ff60bd28957d27e5192f55dfd8c5969bb6bfc6c4b75d26c046c2b779",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 7:00AM - 7:50AM",
+          "room": "Erhart Agriculture 010 -0100",
+          "instructor": "Kenna Sandberg",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$1",
+        "retrievedAt": "2026-10-30T01:07:07.508Z",
+        "sha256": "42c5b8fac5c27499d1911bf585ef19a62409868f00a89b6559d81e34a9c39923",
+        "evidenceFile": "0003.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:07.508Z",
+      "updatedAt": "2026-10-30T01:07:07.508Z",
+      "lastSeenAt": "2026-10-30T01:07:07.508Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "2205",
+      "title": "Agricultural Communications",
+      "crn": "1472",
+      "sectionNumber": "S02",
+      "component": "ACT",
+      "session": "Regular",
+      "id": "scheduleSection:c61be7c39f70e63c32fe8929cb5442ef5041bc0fee142cca70b86c4bc8ef3090",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 8:00AM - 8:50AM",
+          "room": "Erhart Agriculture 010 -0100",
+          "instructor": "Kenna Sandberg",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$2",
+        "retrievedAt": "2026-10-30T01:07:09.477Z",
+        "sha256": "4ec3c6469052edd9a8c9863bf76d196621c29000c88bec395a9ee10926d6d50a",
+        "evidenceFile": "0005.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:09.477Z",
+      "updatedAt": "2026-10-30T01:07:09.477Z",
+      "lastSeenAt": "2026-10-30T01:07:09.477Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "2207",
+      "title": "Software Applications for Agricultural Publications",
+      "crn": "1458",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:b7aef6f930c469c0666a2506f7814dd59bc6247e011525deec38163fff308c43",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "2 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Mo 12:00PM - 12:50PM",
+          "room": "Frank E. Pilling 014 -0249",
+          "instructor": "Moses Mike",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$3",
+        "retrievedAt": "2026-10-30T01:07:11.498Z",
+        "sha256": "39dea9a44c0d192097bc47caa1f7670b9f01d24a2dce572c5c7180dde325f872",
+        "evidenceFile": "0007.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:11.498Z",
+      "updatedAt": "2026-10-30T01:07:11.498Z",
+      "lastSeenAt": "2026-10-30T01:07:11.498Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "2207",
+      "title": "Software Applications for Agricultural Publications",
+      "crn": "1459",
+      "sectionNumber": "S02",
+      "component": "ACT",
+      "session": "Regular",
+      "id": "scheduleSection:76a1f42f832f802ed18c41e8c84eb66e10133bd85929a352b4688ba5fc022f6b",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "We 12:00PM - 1:50PM",
+          "room": "Erhart Agriculture 010 -0100",
+          "instructor": "Moses Mike",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$4",
+        "retrievedAt": "2026-10-30T01:07:13.433Z",
+        "sha256": "e8dd1b7558ac2b5ff5e7cfbb1500509d97d996faed0aa11e30019cd7442223c4",
+        "evidenceFile": "0009.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:13.433Z",
+      "updatedAt": "2026-10-30T01:07:13.433Z",
+      "lastSeenAt": "2026-10-30T01:07:13.433Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "2207",
+      "title": "Software Applications for Agricultural Publications",
+      "crn": "1460",
+      "sectionNumber": "S03",
+      "component": "ACT",
+      "session": "Regular",
+      "id": "scheduleSection:3748a6e3ab8979221912dddf85c98b3b75a96dee730ca6a139d0e663c1c8e4be",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Fr 12:00PM - 1:50PM",
+          "room": "Erhart Agriculture 010 -0100",
+          "instructor": "Moses Mike",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$5",
+        "retrievedAt": "2026-10-30T01:07:15.374Z",
+        "sha256": "cd1117f94182eb7fe7cf0284650b31479f7778d42a0333643412caad310b2517",
+        "evidenceFile": "0011.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:15.374Z",
+      "updatedAt": "2026-10-30T01:07:15.374Z",
+      "lastSeenAt": "2026-10-30T01:07:15.374Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "3301",
+      "title": "New Media Communication Strategies in Agriculture",
+      "crn": "1456",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:967c42cd8c0e9cca1fe4cf01aabc296dc0516619a4fa1aa9decffb848460495e",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Mo 8:00AM - 9:50AM",
+          "room": "Constr Innovations Center C303",
+          "instructor": "Kenna Sandberg",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$6",
+        "retrievedAt": "2026-10-30T01:07:17.850Z",
+        "sha256": "f3fb40e02dc5db22125fec26cc4ef6246f55d5846dbde2ded2a4b1addd037fb0",
+        "evidenceFile": "0013.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:17.850Z",
+      "updatedAt": "2026-10-30T01:07:17.850Z",
+      "lastSeenAt": "2026-10-30T01:07:17.850Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "3301",
+      "title": "New Media Communication Strategies in Agriculture",
+      "crn": "1457",
+      "sectionNumber": "S02",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:398241cbf62e518aa776f44da28f6e8ef4cef596b030fdd601ee83d99ec52b23",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Fr 8:00AM - 10:50AM",
+          "room": "Erhart Agriculture 010 -0100",
+          "instructor": "Kenna Sandberg",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$7",
+        "retrievedAt": "2026-10-30T01:07:19.732Z",
+        "sha256": "414f6fa49fddd3b93cfe68875bfb809479803ba4a53b33f68989698d9b2fb9ed",
+        "evidenceFile": "0015.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:19.732Z",
+      "updatedAt": "2026-10-30T01:07:19.732Z",
+      "lastSeenAt": "2026-10-30T01:07:19.732Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "3314",
+      "title": "California Fairgrounds and Expositions",
+      "crn": "1466",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:3800fd6a61d9b17fed4b0674a7b25433ca9dabde1fb0654be48d7f76eff22f85",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Tu 3:00PM - 5:50PM",
+          "room": "Constr Innovations Center C203",
+          "instructor": "TJ Plew-Hearne",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$8",
+        "retrievedAt": "2026-10-30T01:07:21.457Z",
+        "sha256": "b2a201c8940bb82b50fa8efdd072de66d3f8e630f519b34bde9a2223b8f12f1a",
+        "evidenceFile": "0017.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:21.457Z",
+      "updatedAt": "2026-10-30T01:07:21.457Z",
+      "lastSeenAt": "2026-10-30T01:07:21.457Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "3314",
+      "title": "California Fairgrounds and Expositions",
+      "crn": "12549",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:df51a1619e2269de54f9be7d71ca613c9cca5e4de4c893f5ea511879748a266d",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Tu 6:00PM - 8:50PM",
+          "room": "Constr Innovations Center C203",
+          "instructor": "TJ Plew-Hearne",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$9",
+        "retrievedAt": "2026-10-30T01:07:23.498Z",
+        "sha256": "34bb08b57d493be8a1ec4968ea3cd67c3fc598b40b11ff498db8a74d2771cae7",
+        "evidenceFile": "0019.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:23.498Z",
+      "updatedAt": "2026-10-30T01:07:23.498Z",
+      "lastSeenAt": "2026-10-30T01:07:23.498Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "3339",
+      "title": "Internship in Agricultural Communications",
+      "crn": "1440",
+      "sectionNumber": "S01",
+      "component": "IND",
+      "session": "Regular",
+      "id": "scheduleSection:f3b0c1b18d45793038416d254f5902f2838ba4e710f4d815c45239039e3db0c1",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 - 12 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Ben Swan",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$10",
+        "retrievedAt": "2026-10-30T01:07:25.578Z",
+        "sha256": "e4d2d304b2e7079bd71707b408dce0cf4f49add44a7be2b873c2bc0af3289ffc",
+        "evidenceFile": "0021.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:25.578Z",
+      "updatedAt": "2026-10-30T01:07:25.578Z",
+      "lastSeenAt": "2026-10-30T01:07:25.578Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "4404",
+      "title": "Applications of Agricultural Leadership",
+      "crn": "1475",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:d1df08346fe962199d7fcb61563b83dd0d8c09374c82b42a8d5789ed1381b650",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Mo 2:00PM - 3:50PM",
+          "room": "Erhart Agriculture 010 -0100",
+          "instructor": "Erin Gorter",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=1475",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$11",
+        "retrievedAt": "2026-10-30T01:07:27.831Z",
+        "sha256": "049fca6970d13827a44319bb8c637811c5b56d20800d37c3aedfdc24b015893b",
+        "evidenceFile": "0023.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:27.831Z",
+      "updatedAt": "2026-10-30T01:07:27.831Z",
+      "lastSeenAt": "2026-10-30T01:07:27.831Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "4404",
+      "title": "Applications of Agricultural Leadership",
+      "crn": "1476",
+      "sectionNumber": "S02",
+      "component": "ACT",
+      "session": "Regular",
+      "id": "scheduleSection:399e19169e34eabb9b7f6b10faa4b53ed1e495d4d74d089ec4fdd606391128ec",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "We 2:00PM - 3:50PM",
+          "room": "Erhart Agriculture 010 -0100",
+          "instructor": "Erin Gorter",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=1476",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$12",
+        "retrievedAt": "2026-10-30T01:07:30.715Z",
+        "sha256": "b878afdc7c4b1879ff0c4d64da1eea0f86474a10fa2e27b4b320ab550df78310",
+        "evidenceFile": "0025.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:30.715Z",
+      "updatedAt": "2026-10-30T01:07:30.715Z",
+      "lastSeenAt": "2026-10-30T01:07:30.715Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "4404",
+      "title": "Applications of Agricultural Leadership",
+      "crn": "1467",
+      "sectionNumber": "S03",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:b31efd5268057d7a0a934a663824a459fe321b24abc8a9b9cce9f7e1f1afa2b2",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Mo 6:00PM - 7:50PM",
+          "room": "Erhart Agriculture 010 -0100",
+          "instructor": "Brittney Thompson",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$13",
+        "retrievedAt": "2026-10-30T01:07:33.032Z",
+        "sha256": "9ea37e0a3dcf14cb8556bce4d2a773d86618bcbe3e4d3a59bd5b289ec436e01f",
+        "evidenceFile": "0027.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:33.032Z",
+      "updatedAt": "2026-10-30T01:07:33.032Z",
+      "lastSeenAt": "2026-10-30T01:07:33.032Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "4404",
+      "title": "Applications of Agricultural Leadership",
+      "crn": "1468",
+      "sectionNumber": "S04",
+      "component": "ACT",
+      "session": "Regular",
+      "id": "scheduleSection:ea7c2e6eb9906589e1d2ed1f9ea30116959cd7d18de14d8135e30074b12c396e",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "We 6:00PM - 7:50PM",
+          "room": "Erhart Agriculture 010 -0100",
+          "instructor": "Brittney Thompson",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$14",
+        "retrievedAt": "2026-10-30T01:07:34.862Z",
+        "sha256": "60868909f3476f824ec2f101c7c75f1718cd7dbc644b55d64aab76282fc7b438",
+        "evidenceFile": "0029.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:34.862Z",
+      "updatedAt": "2026-10-30T01:07:34.862Z",
+      "lastSeenAt": "2026-10-30T01:07:34.862Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "4407",
+      "title": "Agricultural Publications",
+      "crn": "1442",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:db43262547466d51b5e6e0d38ea2fadf91319b39e90f922191a0e3f54d03f54d",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Tu 12:00PM - 12:50PM",
+          "room": "Erhart Agriculture 010 -0100",
+          "instructor": "Moses Mike",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$15",
+        "retrievedAt": "2026-10-30T01:07:37.021Z",
+        "sha256": "2bbd8e399aef1deca27a573d5b43ab197785c11b1c9f040cd4778a9bf18bb894",
+        "evidenceFile": "0031.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:37.021Z",
+      "updatedAt": "2026-10-30T01:07:37.021Z",
+      "lastSeenAt": "2026-10-30T01:07:37.021Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "4407",
+      "title": "Agricultural Publications",
+      "crn": "1443",
+      "sectionNumber": "S02",
+      "component": "ACT",
+      "session": "Regular",
+      "id": "scheduleSection:ed2ff308aa3ec1ec7d49cf7b4beb6906921e8588a333c12cc482a4bcf6b447e6",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 4:00PM - 5:50PM",
+          "room": "Erhart Agriculture 010 -0100",
+          "instructor": "Moses Mike",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$16",
+        "retrievedAt": "2026-10-30T01:07:38.758Z",
+        "sha256": "1e1fee161e640d66bd093bc844775da9c6f981989642c658b7acfe51215ba40d",
+        "evidenceFile": "0033.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:38.758Z",
+      "updatedAt": "2026-10-30T01:07:38.758Z",
+      "lastSeenAt": "2026-10-30T01:07:38.758Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "4425",
+      "title": "Multimedia Storytelling in Agriculture and Science",
+      "crn": "1469",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:589c4e2a098b9e8c14caef2830c43b4155c41a203eb671d232542d7aab2d7a4c",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Tu 1:00PM - 1:50PM",
+          "room": "Erhart Agriculture 010 -0100",
+          "instructor": "Moses Mike",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$17",
+        "retrievedAt": "2026-10-30T01:07:40.937Z",
+        "sha256": "07dd0d8857f4e12a0d8597b108b2e8879101807b127497965c909f6f7db41a99",
+        "evidenceFile": "0035.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:40.937Z",
+      "updatedAt": "2026-10-30T01:07:40.937Z",
+      "lastSeenAt": "2026-10-30T01:07:40.937Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "4425",
+      "title": "Multimedia Storytelling in Agriculture and Science",
+      "crn": "1470",
+      "sectionNumber": "S02",
+      "component": "ACT",
+      "session": "Regular",
+      "id": "scheduleSection:51a74bf9376fc79d44762fc4f2ea0223d57b0ceea7a3a1bb9b145851deb637a6",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 2:00PM - 3:50PM",
+          "room": "Erhart Agriculture 010 -0100",
+          "instructor": "Moses Mike",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$18",
+        "retrievedAt": "2026-10-30T01:07:42.673Z",
+        "sha256": "2ed1a80c2be1b75467997e0bf2dce3535bd3cc398e3d05f0f5487ff95f59c9b4",
+        "evidenceFile": "0037.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:42.673Z",
+      "updatedAt": "2026-10-30T01:07:42.673Z",
+      "lastSeenAt": "2026-10-30T01:07:42.673Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "4426",
+      "title": "Presentation Methods in Agricultural Communication",
+      "crn": "1451",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:772bbe1c95073486e55f30a6a9cef70ad5dacb252ca505185c3f3d739278b6ae",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 9:00AM - 9:50AM",
+          "room": "Erhart Agriculture 010 -0100",
+          "instructor": "Kenna Sandberg",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$19",
+        "retrievedAt": "2026-10-30T01:07:44.895Z",
+        "sha256": "18e94a22990e8fe0f8c04558f4daa4826d2600602c2403a599c6e03a5b4a318f",
+        "evidenceFile": "0039.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:44.895Z",
+      "updatedAt": "2026-10-30T01:07:44.895Z",
+      "lastSeenAt": "2026-10-30T01:07:44.895Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "4426",
+      "title": "Presentation Methods in Agricultural Communication",
+      "crn": "1452",
+      "sectionNumber": "S02",
+      "component": "ACT",
+      "session": "Regular",
+      "id": "scheduleSection:2d6dae23ad851de1778be0dd6e9995fe0f0e503c1ba9fbf82c0d9e2b0cfd59d3",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 10:00AM - 10:50AM",
+          "room": "Erhart Agriculture 010 -0100",
+          "instructor": "Kenna Sandberg",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$20",
+        "retrievedAt": "2026-10-30T01:07:47.059Z",
+        "sha256": "ba8c17011883b5ab876d83d45691685b03f11303c6686eb6658f0f7e131be7e4",
+        "evidenceFile": "0041.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:47.059Z",
+      "updatedAt": "2026-10-30T01:07:47.059Z",
+      "lastSeenAt": "2026-10-30T01:07:47.059Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "4452",
+      "title": "Current Trends and Issues in Agricultural Communication",
+      "crn": "1461",
+      "sectionNumber": "S01",
+      "component": "SEM",
+      "session": "Regular",
+      "id": "scheduleSection:9d67a38b18151c962b3ec6acdb4b7c5713febfcdc21dbb3a68d5e342c9d36a50",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 4:30PM - 5:50PM",
+          "room": "Erhart Agriculture 010 -0100",
+          "instructor": "Ben Swan",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$21",
+        "retrievedAt": "2026-10-30T01:07:48.996Z",
+        "sha256": "f549e2674018d3b4993f9ac8212aae39ff64e0a0f017503840d33e217fc90e66",
+        "evidenceFile": "0043.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:48.996Z",
+      "updatedAt": "2026-10-30T01:07:48.996Z",
+      "lastSeenAt": "2026-10-30T01:07:48.996Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "4452",
+      "title": "Current Trends and Issues in Agricultural Communication",
+      "crn": "1462",
+      "sectionNumber": "V02",
+      "component": "SEM",
+      "session": "Regular",
+      "id": "scheduleSection:d21fd019f53c5b9d15261b70fb05c9d86b427888454279bb980191e2b2c5db67",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "Synchronous",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 6:00PM - 7:20PM",
+          "room": "Virtual Class",
+          "instructor": "Brittney Thompson",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$22",
+        "retrievedAt": "2026-10-30T01:07:51.167Z",
+        "sha256": "48fcfd91605300ab101635873ac09b0544b2b22180eb37cb36952168497b4b1d",
+        "evidenceFile": "0045.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:51.167Z",
+      "updatedAt": "2026-10-30T01:07:51.167Z",
+      "lastSeenAt": "2026-10-30T01:07:51.167Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "4452",
+      "title": "Current Trends and Issues in Agricultural Communication",
+      "crn": "12799",
+      "sectionNumber": "V03",
+      "component": "SEM",
+      "session": "Regular",
+      "id": "scheduleSection:7931a9d778f85d67be8bd1d2cdb8ab20a2c69e5d3aeacc61949b1f3e92961a29",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "Synchronous",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 6:00PM - 7:20PM",
+          "room": "Virtual Class",
+          "instructor": "Brittney Thompson, Ben Swan",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$23",
+        "retrievedAt": "2026-10-30T01:07:53.522Z",
+        "sha256": "7e51d81868c916b2b0dd5693eca4fc8ea931c4cd22fc1575ce2174f5d0fd24d8",
+        "evidenceFile": "0047.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:53.522Z",
+      "updatedAt": "2026-10-30T01:07:53.522Z",
+      "lastSeenAt": "2026-10-30T01:07:53.522Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "4463",
+      "title": "Senior Project",
+      "crn": "1473",
+      "sectionNumber": "S01",
+      "component": "SEM",
+      "session": "Regular",
+      "id": "scheduleSection:ca0b0771970486ddc4e297cec18519e221c9ee401269dc28eac9be934c02467a",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 6:00PM - 7:20PM",
+          "room": "Erhart Agriculture 010 -0100",
+          "instructor": "Carson Nesbella",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=1473",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$24",
+        "retrievedAt": "2026-10-30T01:07:55.156Z",
+        "sha256": "6ce2e103be19c08f113e45e7a69ec06c64f163eb68d163c24ddd3ec8184a36e0",
+        "evidenceFile": "0049.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T01:07:55.156Z",
+      "updatedAt": "2026-10-30T01:07:55.156Z",
+      "lastSeenAt": "2026-10-30T01:07:55.156Z"
+    },
+    {
+      "subject": "AGC",
+      "number": "4470",
+      "title": "Special Advanced Topics",
+      "crn": "9177",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:340e159854be0beebeeafa52210444d1ea5bf3ea8f4f1bb697b03f1f5c29c351",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 12:00PM - 1:20PM",
+          "room": "Constr Innovations Center C101",
+          "instructor": "Jack Busch",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$25",
+        "retrievedAt": "2026-10-30T10:56:11.028Z",
+        "sha256": "d689f52300c46f396686cde51f139c111336ddda782f29f7e079c1e57cdc6306",
+        "evidenceFile": "0051.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010655-badc366d/AGC/.runs/extract-1/20261030T010700-9a8a250e/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGC",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "4df7a711bc784fe940b1315e1cd94b675bb0581c2b316ccf83b04425fba0a86d"
+      },
+      "firstSeenAt": "2026-10-30T10:56:11.028Z",
+      "updatedAt": "2026-10-30T10:56:11.028Z",
+      "lastSeenAt": "2026-10-30T10:56:11.028Z"
+    }
+  ]
+}

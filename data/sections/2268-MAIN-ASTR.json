@@ -1,0 +1,257 @@
+{
+  "schemaVersion": 1,
+  "scope": {
+    "institution": "SLCMP",
+    "termId": "2268",
+    "campus": "MAIN",
+    "subject": "ASTR",
+    "courseNumber": null,
+    "includeClosed": true
+  },
+  "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+  "mode": "live",
+  "capturePath": "data/sections/.runs/pipeline/20261030T005627-8ff86856/ASTR/.runs/extract-1/20261030T005632-078253bc/capture.json",
+  "generatedAt": "2026-10-30T00:56:44.722Z",
+  "complete": true,
+  "contentSha256": "eac3f4981a6ef198334d42703eeee020bf362938d76095ef236f1e6b4fcb3f89",
+  "sectionCount": 5,
+  "courseCount": 4,
+  "termLabel": "Cal Poly | Fall Semester 2026",
+  "sections": [
+    {
+      "subject": "ASTR",
+      "number": "1101",
+      "title": "Introduction to the Solar System",
+      "crn": "5741",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:9eda6e680cf9d9dfc81de4d119c1142a885304a9e95eb2816c85fe968b7bc557",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWeFr 4:00PM - 4:50PM",
+          "room": "Frost Center 181 -0102",
+          "instructor": "Lizvette Villafana",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=5741",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$0",
+        "retrievedAt": "2026-10-30T00:56:36.670Z",
+        "sha256": "762ef223259e917bc5a2b8f84556c6b84d9efcb2c601f70deb50a565c95c17ed",
+        "evidenceFile": "0001.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005627-8ff86856/ASTR/.runs/extract-1/20261030T005632-078253bc/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "ASTR",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "48757e0b90b4977e7aec705c20010c22fef061642d647d1bb450d015af0d29ff"
+      },
+      "firstSeenAt": "2026-10-30T00:56:36.670Z",
+      "updatedAt": "2026-10-30T00:56:36.670Z",
+      "lastSeenAt": "2026-10-30T00:56:36.670Z"
+    },
+    {
+      "subject": "ASTR",
+      "number": "1102",
+      "title": "Introduction to Stars and Galaxies",
+      "crn": "5742",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:39bb9c761fe86dbdac811536f40d801b902960f19fa9f2b3aac82fa2e5c7b802",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWeFr 2:00PM - 2:50PM",
+          "room": "Frost Center 181 -0102",
+          "instructor": "Reza Monadi",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=5742",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$1",
+        "retrievedAt": "2026-10-30T00:56:38.628Z",
+        "sha256": "f4dc19b08733a908ca05635e110e0e71d71b354306edbf19c815aeed51ecac4a",
+        "evidenceFile": "0003.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005627-8ff86856/ASTR/.runs/extract-1/20261030T005632-078253bc/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "ASTR",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "48757e0b90b4977e7aec705c20010c22fef061642d647d1bb450d015af0d29ff"
+      },
+      "firstSeenAt": "2026-10-30T00:56:38.628Z",
+      "updatedAt": "2026-10-30T00:56:38.628Z",
+      "lastSeenAt": "2026-10-30T00:56:38.628Z"
+    },
+    {
+      "subject": "ASTR",
+      "number": "3301",
+      "title": "Stars and Planetary Systems",
+      "crn": "5743",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:388af92f38d9729f3f3f3f3b8111ef50372179b06e38ae39a569a45c081b1b52",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 9:00AM - 10:20AM",
+          "room": "Science North 053 -0213",
+          "instructor": "Lizvette Villafana",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=5743",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$2",
+        "retrievedAt": "2026-10-30T00:56:40.981Z",
+        "sha256": "39d04d2e9f4d88a8daac9f2e7fd5d5dd3a93f6f79a1d84d6633c29eab8ec596e",
+        "evidenceFile": "0005.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005627-8ff86856/ASTR/.runs/extract-1/20261030T005632-078253bc/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "ASTR",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "48757e0b90b4977e7aec705c20010c22fef061642d647d1bb450d015af0d29ff"
+      },
+      "firstSeenAt": "2026-10-30T00:56:40.981Z",
+      "updatedAt": "2026-10-30T00:56:40.981Z",
+      "lastSeenAt": "2026-10-30T00:56:40.981Z"
+    },
+    {
+      "subject": "ASTR",
+      "number": "4444",
+      "title": "Observational Astronomy",
+      "crn": "5920",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:5265c1d453adfc7342a0e8e30d96626715874cdb3505e27f3d3505ce287025a8",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "4 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 12:00PM - 1:20PM",
+          "room": "Baker Ctr Sci & Math 180 -0261",
+          "instructor": "Elizabeth Jeffery",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=5920",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$3",
+        "retrievedAt": "2026-10-30T00:56:42.698Z",
+        "sha256": "ecabddc4ce0015049e9f416920c2f13d47bb50806165b4be2607773c6a8891ab",
+        "evidenceFile": "0007.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005627-8ff86856/ASTR/.runs/extract-1/20261030T005632-078253bc/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "ASTR",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "48757e0b90b4977e7aec705c20010c22fef061642d647d1bb450d015af0d29ff"
+      },
+      "firstSeenAt": "2026-10-30T00:56:42.698Z",
+      "updatedAt": "2026-10-30T00:56:42.698Z",
+      "lastSeenAt": "2026-10-30T00:56:42.698Z"
+    },
+    {
+      "subject": "ASTR",
+      "number": "4444",
+      "title": "Observational Astronomy",
+      "crn": "5921",
+      "sectionNumber": "S02",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:495ab1ef292772823c3a1c9113ac341ff78b052a2d1195fa68c72355e586393e",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Fr 12:00PM - 2:50PM",
+          "room": "Baker Ctr Sci & Math 180 -0272",
+          "instructor": "Elizabeth Jeffery",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=5921",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$4",
+        "retrievedAt": "2026-10-30T00:56:44.714Z",
+        "sha256": "ec7ff9b70f18d686516d238f84c9e8b26ff215974e0c0504fc8167764eee0d9a",
+        "evidenceFile": "0009.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005627-8ff86856/ASTR/.runs/extract-1/20261030T005632-078253bc/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "ASTR",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "48757e0b90b4977e7aec705c20010c22fef061642d647d1bb450d015af0d29ff"
+      },
+      "firstSeenAt": "2026-10-30T00:56:44.714Z",
+      "updatedAt": "2026-10-30T00:56:44.714Z",
+      "lastSeenAt": "2026-10-30T00:56:44.714Z"
+    }
+  ]
+}

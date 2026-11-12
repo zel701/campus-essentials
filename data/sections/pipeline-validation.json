@@ -1,0 +1,26 @@
+{
+  "verifiedAt": "2026-10-28T20:44:16.498Z",
+  "mode": "offline-real-captures",
+  "pipelineReport": "data/sections/.runs/pipeline-acceptance/output/pipeline.report.json",
+  "runId": "20261028T204057-43a7ee13",
+  "status": "complete",
+  "automatedStages": [
+    "preflight",
+    "extract",
+    "verify-replay",
+    "quality-gate",
+    "publish"
+  ],
+  "summary": {
+    "sections": 177,
+    "courses": 56,
+    "removed": 0,
+    "materialsLinks": 59,
+    "materialsNotListed": 118,
+    "contentSha256": "498e4397bd35b4a6820d7cdda921bbb18e9cda8c2e04f2f7b5f3f302e548cadf",
+    "replayMatches": true
+  },
+  "matchesPreviouslyValidatedLiveContent": true,
+  "productionOutputUpdated": false,
+  "scheduleEnabled": false
+}

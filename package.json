@@ -7,8 +7,33 @@
   "scripts": {
     "build": "tsc",
     "watch": "tsc -w",
-    "test": "jest",
-    "cdk": "cdk"
+    "test": "npm run test:js && npm run test:python",
+    "cdk": "cdk",
+    "typecheck": "tsc --noEmit",
+    "test:js": "jest --runInBand",
+    "test:python": "python3 -m unittest discover -s test -p 'test_*.py'",
+    "check": "npm run typecheck && npm test",
+    "catalog:import": "python3 scripts/import_catalog.py",
+    "catalog:validate": "python3 scripts/upload_catalog.py data/catalog/2026-2028.json",
+    "sections:extract": "python3 scripts/extract_sections.py",
+    "sections:sync": "python3 scripts/sync_sections.py",
+    "sections:expand": "python3 scripts/expand_sections.py",
+    "sections:status": "python3 scripts/sync_sections.py --status",
+    "sections:import": "node scripts/import-sections.cjs",
+    "test:section-import": "node test/import-sections.cjs",
+    "aws:prepare": "VITE_API_BASE_URL=/api npm run build:web && cdk synth --profile campus -c website=true --quiet",
+    "aws:diff": "cdk diff --profile campus -c website=true --no-change-set",
+    "aws:deploy": "cdk deploy --profile campus -c website=true --outputs-file .local/aws/outputs.json",
+    "aws:import": "node scripts/import-aws.cjs",
+    "aws:smoke": "node scripts/smoke-aws.cjs",
+    "test:sections": "python3 -m unittest discover -s test -p 'test_sections.py'",
+    "test:dynamodb-local": "node test/dynamodb-local.cjs",
+    "local:setup": "python3 scripts/local-setup.py",
+    "dev:web": "node scripts/dev-web.cjs",
+    "build:web": "npm run build --prefix web",
+    "test:web": "npm test --prefix web",
+    "test:browser": "npm run test:e2e --prefix web",
+    "test:local": "node test/local-website.cjs"
   },
   "devDependencies": {
     "@types/jest": "^29.5.14",
@@ -20,13 +45,10 @@
     "typescript": "~5.6.3"
   },
   "dependencies": {
-    "@aws-cdk/aws-iam": "^1.203.0",
-    "@aws-cdk/aws-lambda": "^1.203.0",
-    "@aws-cdk/aws-lambda-python-alpha": "^2.206.0-alpha.0",
     "aws-cdk-lib": "^2.206.0",
     "constructs": "^10.4.2"
   },
-  "description": "This is a blank project for CDK development with TypeScript.",
+  "description": "Cal Poly course catalog and required-materials backend",
   "main": "jest.config.js",
   "directories": {
     "lib": "lib",

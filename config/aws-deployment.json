@@ -1,0 +1,18 @@
+{
+  "accountId": "127214176503",
+  "region": "us-west-2",
+  "profile": "campus",
+  "stackName": "CampusEssentialsStack",
+  "tableName": "campus-essentials",
+  "preserveLegacyApi": true,
+  "catalogPath": "data/catalog/2026-2028.json",
+  "snapshots": [
+    "data/sections/2268-MAIN-BIO.json",
+    "data/sections/2268-MAIN-AERO.json",
+    "data/sections/2268-MAIN-ASTR.json",
+    "data/sections/2268-MAIN-DATA.json",
+    "data/sections/2268-MAIN-AG.json",
+    "data/sections/2268-MAIN-AGB.json",
+    "data/sections/2268-MAIN-AGC.json"
+  ]
+}

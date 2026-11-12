@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "term": "2268",
+  "campus": "MAIN",
+  "outputDir": "data/sections",
+  "delaySeconds": 1,
+  "connectionRetries": 1,
+  "retryDelaySeconds": 15,
+  "staleAfterHours": 48,
+  "maxRemovalFraction": 0.25,
+  "databaseImport": {
+    "enabled": true,
+    "port": 8765,
+    "tableName": "campus-essentials-local",
+    "catalogPath": "data/catalog/2026-2028.json"
+  },
+  "jobs": [
+    {"subject": "BIO", "pilotCourse": "1111", "minimumSections": 1}
+  ]
+}

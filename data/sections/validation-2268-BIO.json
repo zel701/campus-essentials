@@ -1,0 +1,64 @@
+{
+  "verifiedAt": "2026-10-28T07:32:37.869Z",
+  "scope": {
+    "institution": "SLCMP",
+    "termId": "2268",
+    "campus": "MAIN",
+    "subject": "BIO",
+    "courseNumber": null,
+    "includeClosed": true
+  },
+  "pilot": {
+    "course": "BIO 1111",
+    "sectionCount": 3,
+    "independentLiveRuns": 3,
+    "allContentHashesMatch": true,
+    "runs": [
+      {
+        "runId": "20261028T071544-30bf6863",
+        "contentSha256": "81f76f2fb44e79c8a32f77084f54b8cb5c8a8462fcabc1af175c9e2d620f11e0",
+        "changes": {
+          "added": 3,
+          "changed": 0,
+          "unchanged": 0,
+          "removed": 0
+        }
+      },
+      {
+        "runId": "20261028T071728-742357b6",
+        "contentSha256": "81f76f2fb44e79c8a32f77084f54b8cb5c8a8462fcabc1af175c9e2d620f11e0",
+        "changes": {
+          "added": 0,
+          "changed": 0,
+          "unchanged": 3,
+          "removed": 0
+        }
+      },
+      {
+        "runId": "20261028T072543-6ba86933",
+        "contentSha256": "81f76f2fb44e79c8a32f77084f54b8cb5c8a8462fcabc1af175c9e2d620f11e0",
+        "changes": {
+          "added": 0,
+          "changed": 0,
+          "unchanged": 3,
+          "removed": 0
+        }
+      }
+    ]
+  },
+  "subject": {
+    "courseCount": 56,
+    "sectionCount": 177,
+    "linksAvailable": 59,
+    "linksNotListed": 118,
+    "liveRunId": "20261028T071747-fe6f0dc4",
+    "offlineRunId": "20261028T073117-2d8ee4e5",
+    "liveAndReplayContentMatch": true,
+    "contentSha256": "498e4397bd35b4a6820d7cdda921bbb18e9cda8c2e04f2f7b5f3f302e548cadf",
+    "failureCount": 0
+  },
+  "limitations": [
+    "Materials URLs were extracted, not visited; textbook adoption and ISBNs remain unverified.",
+    "Snapshots were not imported into the website database."
+  ]
+}

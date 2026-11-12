@@ -4,6 +4,8 @@ node_modules/
 # Ignore compiled JS files (but keep config files)
 *.js
 !jest.config.js
+!lambda/*.js
+!scripts/cloudfront-routes.js
 
 # Ignore TypeScript definition files
 *.d.ts
@@ -14,3 +16,63 @@ cdk.out/
 
 # Ignore AWS credentials files (optional, if accidentally placed)
 *.aws
+
+# Local metadata and Python bytecode
+.DS_Store
+__pycache__/
+*.py[cod]
+.env
+.env.*
+
+# Public catalog HTTP response cache
+data/catalog/.cache/
+
+# Sanitized public schedule replay captures and per-run reports
+data/sections/.runs/
+data/sections/.pipeline.lock
+data/sections/.expansion/
+
+# Local website runtime and generated output
+.local/
+web/public/catalog/
+web/dist/
+web/test-results/
+web/playwright-report/
+
+# Credentials, databases and temporary output
+.aws/
+*.pem
+*.key
+*.p12
+*.pfx
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite-*
+*.log
+*.tmp
+*.bak
+.venv/
+venv/
+.pytest_cache/
+
+# Runtime reports are regenerated; keep the reviewed source data snapshots
+data/catalog/*.report.json
+data/sections/*.report.json
+data/sections/subject-discovery.json
+
+# Previously committed pip install output (not application source)
+/*.dist-info/
+/bs4/
+/certifi/
+/charset_normalizer/
+/idna/
+/requests/
+/soupsieve/
+/urllib3/
+/typing_extensions.py
+/scraper-lambda/*
+!/scraper-lambda/lambda_function.py
+!/scraper-lambda/requirements.txt
+!/scraper-lambda/README.md

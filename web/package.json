@@ -1,0 +1,31 @@
+{
+  "name": "campus-essentials-web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "catalog": "node ../scripts/prepare-web-catalog.cjs",
+    "predev": "npm run catalog",
+    "dev": "vite --host 127.0.0.1 --port 5173 --strictPort",
+    "prebuild": "npm run catalog",
+    "build": "tsc --noEmit && vite build",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run src",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.9.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@types/node": "^22.0.0",
+    "@vitejs/plugin-react": "^4.7.0",
+    "vite": "^7.1.0",
+    "typescript": "~5.9.2",
+    "vitest": "^4.1.11",
+    "@playwright/test": "^1.55.0"
+  }
+}

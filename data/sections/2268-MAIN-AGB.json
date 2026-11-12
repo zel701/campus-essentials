@@ -1,0 +1,2518 @@
+{
+  "schemaVersion": 1,
+  "scope": {
+    "institution": "SLCMP",
+    "termId": "2268",
+    "campus": "MAIN",
+    "subject": "AGB",
+    "courseNumber": null,
+    "includeClosed": true
+  },
+  "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+  "mode": "live",
+  "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+  "generatedAt": "2026-10-30T01:06:45.019Z",
+  "complete": true,
+  "contentSha256": "5d5f4778d34aa24eda5d910412deb7aa6a3a74c4f7c54a3610f4834e8820ad7c",
+  "sectionCount": 54,
+  "courseCount": 25,
+  "termLabel": "Cal Poly | Fall Semester 2026",
+  "sections": [
+    {
+      "subject": "AGB",
+      "number": "1101",
+      "title": "Introduction to Agribusiness",
+      "crn": "2766",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:613744d8804827b1b68929b225cad95d71ea35231b62b3b2bb6489951ab4e3b2",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 9:00AM - 10:20AM",
+          "room": "Graphic Arts 026 -0104",
+          "instructor": "Lynn Hamilton",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=2766",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$0",
+        "retrievedAt": "2026-10-30T01:04:36.703Z",
+        "sha256": "b781ebad58ad9b93acb43c80c2a80a15dcab804e756522b64a4eca0e8807626b",
+        "evidenceFile": "0002.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:04:36.703Z",
+      "updatedAt": "2026-10-30T01:04:36.703Z",
+      "lastSeenAt": "2026-10-30T01:04:36.703Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "1101",
+      "title": "Introduction to Agribusiness",
+      "crn": "2767",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:3bd14e7c6db7e4222d5c405dbbe0e96b96afdd282b6bb78773b545fb8903983e",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 10:30AM - 11:50AM",
+          "room": "Graphic Arts 026 -0104",
+          "instructor": "Lynn Hamilton",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=2767",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$1",
+        "retrievedAt": "2026-10-30T01:04:38.872Z",
+        "sha256": "0087963fa06ecf4b739b818a7612aa4299514bb52d44c27a39c3871c5a379ec9",
+        "evidenceFile": "0004.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:04:38.872Z",
+      "updatedAt": "2026-10-30T01:04:38.872Z",
+      "lastSeenAt": "2026-10-30T01:04:38.872Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "2202",
+      "title": "Introduction to Sales",
+      "crn": "2763",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:ea533eb2dbdf5fb7637e4184c2a14c0f7d94c800a25bfc0e9392dc5533782972",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 1:30PM - 2:50PM",
+          "room": "Erhart Agriculture 010 -223",
+          "instructor": "Christiane Schroeter",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$2",
+        "retrievedAt": "2026-10-30T01:04:41.510Z",
+        "sha256": "95aed8924f5a54c2f218a838f3aceb18202ab74a9df765a9b3b55067e07c9e51",
+        "evidenceFile": "0006.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:04:41.510Z",
+      "updatedAt": "2026-10-30T01:04:41.510Z",
+      "lastSeenAt": "2026-10-30T01:04:41.510Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "2202",
+      "title": "Introduction to Sales",
+      "crn": "2764",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:4242a80f912feb44043ea30143e120d60149ae166068b2708ce9c55a8cec205e",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 9:00AM - 10:20AM",
+          "room": "Erhart Agriculture 010 -0231",
+          "instructor": "Dwayne Brummett",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=2764",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$3",
+        "retrievedAt": "2026-10-30T01:04:43.803Z",
+        "sha256": "8550638694a4cf5a83eea47033bb0f4c05001244e1c76299b52bcbca8fb11ee7",
+        "evidenceFile": "0008.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:04:43.803Z",
+      "updatedAt": "2026-10-30T01:04:43.803Z",
+      "lastSeenAt": "2026-10-30T01:04:43.803Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "2202",
+      "title": "Introduction to Sales",
+      "crn": "2765",
+      "sectionNumber": "S03",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:c6fe0941e031d96cc9621a31585a9988891e50bff0350453885565e23759b5ef",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 4:30PM - 5:50PM",
+          "room": "Erhart Agriculture 010 -0206",
+          "instructor": "Doug Sawyer",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=2765",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$4",
+        "retrievedAt": "2026-10-30T01:04:45.862Z",
+        "sha256": "b5bfabaee6906a02e159aa7d7fb7f65084baaa87d19484c6a46d157fcd8f7b5f",
+        "evidenceFile": "0010.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:04:45.862Z",
+      "updatedAt": "2026-10-30T01:04:45.862Z",
+      "lastSeenAt": "2026-10-30T01:04:45.862Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "2212",
+      "title": "Agricultural Economics",
+      "crn": "2768",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:d843dc9aaabbd5e95235741327ee5ebce13bacf3d31fba97821e8a8817d80c4c",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 7:30AM - 8:50AM",
+          "room": "Business 003 -0111",
+          "instructor": "Gil Medeiros De Paula",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$5",
+        "retrievedAt": "2026-10-30T01:04:47.927Z",
+        "sha256": "0196d42abe2bc300ad2c5bfcc0623e94ddef5819c2f06956b557370dec33fb3d",
+        "evidenceFile": "0012.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:04:47.927Z",
+      "updatedAt": "2026-10-30T01:04:47.927Z",
+      "lastSeenAt": "2026-10-30T01:04:47.927Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "2212",
+      "title": "Agricultural Economics",
+      "crn": "2769",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:59a2a0407fb6cd0b340f7be15ed169bc6a5e95740b97600ad2b370b513a9177f",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 9:00AM - 10:20AM",
+          "room": "Graphic Arts 026 -0106",
+          "instructor": "Gil Medeiros De Paula",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$6",
+        "retrievedAt": "2026-10-30T01:04:50.040Z",
+        "sha256": "8c1401db9cb271534c95f9fdfe6d48978030bde17a7f5522f2ba331770ead176",
+        "evidenceFile": "0014.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:04:50.040Z",
+      "updatedAt": "2026-10-30T01:04:50.040Z",
+      "lastSeenAt": "2026-10-30T01:04:50.040Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "2212",
+      "title": "Agricultural Economics",
+      "crn": "2770",
+      "sectionNumber": "S03",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:d2ff467d75f7879eb7fa2bea4b61b1299596f2a460f6c34d353086a978f73ec6",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 3:00PM - 4:20PM",
+          "room": "Science 0E33",
+          "instructor": "Bryan Lohmar",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$7",
+        "retrievedAt": "2026-10-30T01:04:52.979Z",
+        "sha256": "1f17420a7943ad7ca2bbebb4126094bd4f11df5cb4bb479c0a5236e919c72856",
+        "evidenceFile": "0016.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:04:52.979Z",
+      "updatedAt": "2026-10-30T01:04:52.979Z",
+      "lastSeenAt": "2026-10-30T01:04:52.979Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "2212",
+      "title": "Agricultural Economics",
+      "crn": "8002",
+      "sectionNumber": "S04",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:79d0934277f9ae930fb9338d2fd1705d66945be164e81dfc58a170a20a9b0040",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 1:30PM - 2:50PM",
+          "room": "Erhart Agriculture 010 -0206",
+          "instructor": "Michael McCullough",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$8",
+        "retrievedAt": "2026-10-30T01:04:55.448Z",
+        "sha256": "fba145d39e0d465392c344892dae093d0b84f22f3f8bbb80930a50e2f568357d",
+        "evidenceFile": "0018.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:04:55.448Z",
+      "updatedAt": "2026-10-30T01:04:55.448Z",
+      "lastSeenAt": "2026-10-30T01:04:55.448Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "2214",
+      "title": "Agribusiness Financial Accounting",
+      "crn": "2790",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:c93e495241ada08f105e34d856cea74856fd0f06db2652a5246955b6f99928b3",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 10:30AM - 11:50AM",
+          "room": "Erhart Agriculture 010 -0215",
+          "instructor": "Stacey White",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=2790",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$9",
+        "retrievedAt": "2026-10-30T01:04:58.611Z",
+        "sha256": "06d87f5b53a4356345702a621dccb82cbbd3694c787a940a9ea280fcf7171458",
+        "evidenceFile": "0020.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:04:58.611Z",
+      "updatedAt": "2026-10-30T01:04:58.611Z",
+      "lastSeenAt": "2026-10-30T01:04:58.611Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "2214",
+      "title": "Agribusiness Financial Accounting",
+      "crn": "2811",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:ddb59f8a7d97ef957617c91247de450e5cb5e46faa6361d11147f0c64d2c46a2",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 4:30PM - 5:50PM",
+          "room": "Constr Innovations Center C300",
+          "instructor": "Holly Newman",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=2811",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$10",
+        "retrievedAt": "2026-10-30T01:05:00.306Z",
+        "sha256": "7338e2846839e83cc9fd583a96b82057ff23eeb8731c70bf599152262587335a",
+        "evidenceFile": "0022.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:00.306Z",
+      "updatedAt": "2026-10-30T01:05:00.306Z",
+      "lastSeenAt": "2026-10-30T01:05:00.306Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "2214",
+      "title": "Agribusiness Financial Accounting",
+      "crn": "2791",
+      "sectionNumber": "S03",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:d2ee4b532c81ee5b68a282924fbf74bef1d9800c19012eb1d7a76478ee89a67a",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 3:00PM - 4:20PM",
+          "room": "Erhart Agriculture 010 -0215",
+          "instructor": "Tim Ridout",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=2791",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$11",
+        "retrievedAt": "2026-10-30T01:05:04.268Z",
+        "sha256": "a84a33da3107272994b7de962b4413023d0a158504a21acbe442d416bac1ef28",
+        "evidenceFile": "0024.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:04.268Z",
+      "updatedAt": "2026-10-30T01:05:04.268Z",
+      "lastSeenAt": "2026-10-30T01:05:04.268Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "2214",
+      "title": "Agribusiness Financial Accounting",
+      "crn": "2792",
+      "sectionNumber": "S04",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:810ed422f21a2099b97693c5c1febc835eab6409cda0633963f73ba0529ab4e9",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 4:30PM - 5:50PM",
+          "room": "Erhart Agriculture 010 -0215",
+          "instructor": "Stacey White",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=2792",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$12",
+        "retrievedAt": "2026-10-30T01:05:06.250Z",
+        "sha256": "cd55ebdcecadd609468527306cb41c5fa0a0a4b2d4099106c96f473226219c7e",
+        "evidenceFile": "0026.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:06.250Z",
+      "updatedAt": "2026-10-30T01:05:06.250Z",
+      "lastSeenAt": "2026-10-30T01:05:06.250Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "2260",
+      "title": "Agribusiness Data Literacy",
+      "crn": "2783",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:8bcb8c6d99cb78c229a055e6b7701a2dd6a27360465999901c4dfc7638e3f7cb",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 7:30AM - 8:50AM",
+          "room": "Erhart Agriculture 010 -0215",
+          "instructor": "Tim Ridout",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$13",
+        "retrievedAt": "2026-10-30T01:05:08.863Z",
+        "sha256": "46b33dfcc80cb913bc3ac3bb2095d7591daffe13ff042d461ae2333cf317db84",
+        "evidenceFile": "0028.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:08.863Z",
+      "updatedAt": "2026-10-30T01:05:08.863Z",
+      "lastSeenAt": "2026-10-30T01:05:08.863Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "2260",
+      "title": "Agribusiness Data Literacy",
+      "crn": "2784",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:99a7fbc51a16c83aeaac7927bf283ca7aeba178cbed2115cdeb5ae99bed6c07a",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 9:00AM - 10:20AM",
+          "room": "Erhart Agriculture 010 -0215",
+          "instructor": "Tim Ridout",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$14",
+        "retrievedAt": "2026-10-30T01:05:11.021Z",
+        "sha256": "4937ebed5d0cce8f14c55714ea46a111ba7bc3a9a7765438aad002aab3b137f8",
+        "evidenceFile": "0030.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:11.021Z",
+      "updatedAt": "2026-10-30T01:05:11.021Z",
+      "lastSeenAt": "2026-10-30T01:05:11.021Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "2260",
+      "title": "Agribusiness Data Literacy",
+      "crn": "2785",
+      "sectionNumber": "S03",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:65920166f47a6fa1bc95b2f8dc00ca1fe78c2f876c46658b4b7ba3052e6f49d4",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 10:30AM - 11:50AM",
+          "room": "Erhart Agriculture 010 -0204",
+          "instructor": "Michael McCullough",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$15",
+        "retrievedAt": "2026-10-30T01:05:13.883Z",
+        "sha256": "9e9f0cdf74a2d4ca7e0743f204ddd7d35c01598f60abe88ee87bdae700fe993f",
+        "evidenceFile": "0032.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:13.883Z",
+      "updatedAt": "2026-10-30T01:05:13.883Z",
+      "lastSeenAt": "2026-10-30T01:05:13.883Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "2260",
+      "title": "Agribusiness Data Literacy",
+      "crn": "2786",
+      "sectionNumber": "S04",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:2af060591ed4251377ce9eaf1b82ac59e6e7b5412a4bcb0f9ab8a90c2797b71e",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 9:00AM - 10:20AM",
+          "room": "Erhart Agriculture 010 -0203",
+          "instructor": "Michael McCullough",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$16",
+        "retrievedAt": "2026-10-30T01:05:15.804Z",
+        "sha256": "3131d2402c5472554ef4e3bc4feae35169d5be8b161c1a78e466ddad7a939af1",
+        "evidenceFile": "0034.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:15.804Z",
+      "updatedAt": "2026-10-30T01:05:15.804Z",
+      "lastSeenAt": "2026-10-30T01:05:15.804Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "2260",
+      "title": "Agribusiness Data Literacy",
+      "crn": "2787",
+      "sectionNumber": "S05",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:400aadbcbe6d723a82cdae0683db92018b0af6c85ec9d8b887437cbe15f9a5cf",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 1:30PM - 2:50PM",
+          "room": "Erhart Agriculture 010 -0215",
+          "instructor": "Sean Hurley",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$17",
+        "retrievedAt": "2026-10-30T01:05:18.276Z",
+        "sha256": "bf4875368d90e4842c7fe3c2b2b0dcc6ca497c70d414786f28b6b4bb50868f6d",
+        "evidenceFile": "0036.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:18.276Z",
+      "updatedAt": "2026-10-30T01:05:18.276Z",
+      "lastSeenAt": "2026-10-30T01:05:18.276Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3301",
+      "title": "Food Marketing",
+      "crn": "2773",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:1afc43179c03766094701af43c6a03faca5a7e838f264956f054cf2429c73efe",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 10:30AM - 11:50AM",
+          "room": "Erhart Agriculture 010 -0206",
+          "instructor": "Maria Gerveni",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$18",
+        "retrievedAt": "2026-10-30T01:05:20.236Z",
+        "sha256": "bfe18e66e6c8e37f3970b76d16ee15c4cbb073591da81ab2a4246825f026334b",
+        "evidenceFile": "0038.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:20.236Z",
+      "updatedAt": "2026-10-30T01:05:20.236Z",
+      "lastSeenAt": "2026-10-30T01:05:20.236Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3301",
+      "title": "Food Marketing",
+      "crn": "2774",
+      "sectionNumber": "V03",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:208a5343b9696bf01e2f3901810001fe084219a2e2af63cb788dfdda0a76234e",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "Asynchronous",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Stamatina Kotsakou",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$19",
+        "retrievedAt": "2026-10-30T01:05:22.664Z",
+        "sha256": "5ac5becc78240ab50678c6113fe168f3683677b6595f4d261cade8eadacde763",
+        "evidenceFile": "0040.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:22.664Z",
+      "updatedAt": "2026-10-30T01:05:22.664Z",
+      "lastSeenAt": "2026-10-30T01:05:22.664Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3301",
+      "title": "Food Marketing",
+      "crn": "7784",
+      "sectionNumber": "V04",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:2d2a1f6fd2833f8c62c7c5a1dd539ed4e2d995827e2d4addcf5a8f6fbba65614",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "Asynchronous",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "Science North 053 -0201",
+          "instructor": "Stamatina Kotsakou",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$20",
+        "retrievedAt": "2026-10-30T01:05:25.598Z",
+        "sha256": "a1d6c3da6818f40f500124c298d849bae4bd94192a307f1250d2916cd6473f5b",
+        "evidenceFile": "0042.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:25.598Z",
+      "updatedAt": "2026-10-30T01:05:25.598Z",
+      "lastSeenAt": "2026-10-30T01:05:25.598Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3301",
+      "title": "Food Marketing",
+      "crn": "12740",
+      "sectionNumber": "V06",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:d8e68c7303b8cec358777529ebcc232d481fa923cee194a7697423fa5e973f5d",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "Asynchronous",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Christiane Schroeter",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$21",
+        "retrievedAt": "2026-10-30T01:05:28.184Z",
+        "sha256": "136d56a61cfac6c88488de160d189cd764f1c938eee4a55b2c6908a19c56ad90",
+        "evidenceFile": "0044.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:28.184Z",
+      "updatedAt": "2026-10-30T01:05:28.184Z",
+      "lastSeenAt": "2026-10-30T01:05:28.184Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3304",
+      "title": "Innovation and Entrepreneurship in Agribusiness",
+      "crn": "2810",
+      "sectionNumber": "V01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:26ace6dc3574efdba67a2562b995debc765077650cdf96bbd4186ef35f16857b",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "Asynchronous",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Christiane Schroeter",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$22",
+        "retrievedAt": "2026-10-30T01:05:30.838Z",
+        "sha256": "187e0380ef6e400b5cafc6b2a2ef8293603f9dc0063e7559b9ff4d5adfd51df0",
+        "evidenceFile": "0046.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:30.838Z",
+      "updatedAt": "2026-10-30T01:05:30.838Z",
+      "lastSeenAt": "2026-10-30T01:05:30.838Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3308",
+      "title": "Introduction to Agribusiness Finance",
+      "crn": "2805",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:7faf6d2290d65292841fbc6e47b1e402152d142357cdc887d3f8a3dcedc05230",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 3:00PM - 4:20PM",
+          "room": "Erhart Agriculture 010 -0204",
+          "instructor": "Xiaowei Cai",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$23",
+        "retrievedAt": "2026-10-30T01:05:34.521Z",
+        "sha256": "b085d5da1db961246c50fb30a871fa0a9ef95e667858dd3db9f912b2a81710bf",
+        "evidenceFile": "0048.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:34.521Z",
+      "updatedAt": "2026-10-30T01:05:34.521Z",
+      "lastSeenAt": "2026-10-30T01:05:34.521Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3308",
+      "title": "Introduction to Agribusiness Finance",
+      "crn": "2806",
+      "sectionNumber": "S03",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:3a50229d43d6984a9636e3f2439bade3f68e9195597726858c1801f69127b9c9",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 4:30PM - 5:50PM",
+          "room": "Erhart Agriculture 010 -0204",
+          "instructor": "Xiaowei Cai",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$24",
+        "retrievedAt": "2026-10-30T01:05:36.889Z",
+        "sha256": "06e598dbbc1df5a780b7fe3e0f9e017b85a4f6c2b1051a8ac4df0e1ea8ead0db",
+        "evidenceFile": "0050.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:36.889Z",
+      "updatedAt": "2026-10-30T01:05:36.889Z",
+      "lastSeenAt": "2026-10-30T01:05:36.889Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3308",
+      "title": "Introduction to Agribusiness Finance",
+      "crn": "7554",
+      "sectionNumber": "S04",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:7b3db1fde46c84d68c256dfa18ab3f6ea0f44faf4e35a7e4c206ba9cc4af8a53",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 1:30PM - 2:50PM",
+          "room": "Erhart Agriculture 010 -0204",
+          "instructor": "Xiaowei Cai",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$25",
+        "retrievedAt": "2026-10-30T01:05:39.015Z",
+        "sha256": "31aa79e1728e735beb3d73a9f66652e0debed4e4ddf3bbcdd0be6fc05dec65aa",
+        "evidenceFile": "0052.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:39.015Z",
+      "updatedAt": "2026-10-30T01:05:39.015Z",
+      "lastSeenAt": "2026-10-30T01:05:39.015Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3309",
+      "title": "Advanced Sales Techniques",
+      "crn": "2803",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:f67ae15302c1de30b25d69f7caec7dd537a0c8ac29c4d0dfd015b8b5c07f29ee",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 3:00PM - 4:20PM",
+          "room": "Kennedy Library 0216B",
+          "instructor": "Kimberly Kuden",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$26",
+        "retrievedAt": "2026-10-30T01:05:41.722Z",
+        "sha256": "2f3dd3fc02afe7ffd0cf701076f7eb2a97eacd2a116f7b57e9b3e66ca3c2213d",
+        "evidenceFile": "0054.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:41.722Z",
+      "updatedAt": "2026-10-30T01:05:41.722Z",
+      "lastSeenAt": "2026-10-30T01:05:41.722Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3311",
+      "title": "Intermediate Agribusiness Finance",
+      "crn": "2794",
+      "sectionNumber": "V01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:8f0dbe73d174b03b8ea909fc9002f29ead710f0f0ca52f13b8617a8ab51e64df",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "Asynchronous",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Xiaowei Cai",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$27",
+        "retrievedAt": "2026-10-30T01:05:43.924Z",
+        "sha256": "ea37008cf18b5d11169efbfe3b17e3fe2e583095c88011de4327cd19b4a987bf",
+        "evidenceFile": "0056.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:43.924Z",
+      "updatedAt": "2026-10-30T01:05:43.924Z",
+      "lastSeenAt": "2026-10-30T01:05:43.924Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3312",
+      "title": "Agricultural Policy",
+      "crn": "2775",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:21c764b2236f1bee2779362117c7067ac1ac14fd918a7819eb96cc7f7d996d39",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 3:00PM - 4:20PM",
+          "room": "Erhart Agriculture 010 -0206",
+          "instructor": "Lynn Hamilton",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=2775",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$28",
+        "retrievedAt": "2026-10-30T01:05:45.912Z",
+        "sha256": "ffd0489f96a54dd4998537f2c4b1e48b275e9dbe3f1987515c57166a91775219",
+        "evidenceFile": "0058.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:45.912Z",
+      "updatedAt": "2026-10-30T01:05:45.912Z",
+      "lastSeenAt": "2026-10-30T01:05:45.912Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3312",
+      "title": "Agricultural Policy",
+      "crn": "2776",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:f332d08f96b03577e3f0f64010cd49b4449807f41df4a474b38bc8a9df65f105",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 12:00PM - 1:20PM",
+          "room": "Arch & Envr Design 005 -0100",
+          "instructor": "Bill Townsend",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$29",
+        "retrievedAt": "2026-10-30T01:05:48.080Z",
+        "sha256": "3461bbc80b34050da1eaef05b9f4bae059c840d3bf741a59a2246581c0fa4077",
+        "evidenceFile": "0060.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:48.080Z",
+      "updatedAt": "2026-10-30T01:05:48.080Z",
+      "lastSeenAt": "2026-10-30T01:05:48.080Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3312",
+      "title": "Agricultural Policy",
+      "crn": "2777",
+      "sectionNumber": "S03",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:ecb9eb32312b89ef6a84c20e19ce23162fde6db06d72610e67e1a16c0204397a",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 3:00PM - 4:20PM",
+          "room": "Erhart Agriculture 010 -0124",
+          "instructor": "Daniel Scheitrum",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$30",
+        "retrievedAt": "2026-10-30T01:05:49.944Z",
+        "sha256": "c2ad89a1c635e632adae47b7fe2ba8cfe4424daebac45be2384cd282c1eced2d",
+        "evidenceFile": "0062.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:49.944Z",
+      "updatedAt": "2026-10-30T01:05:49.944Z",
+      "lastSeenAt": "2026-10-30T01:05:49.944Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3313",
+      "title": "Agriculture Economic Analysis",
+      "crn": "2771",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:6f0fef293c16d65381ce42885f7d75dfe527b001e8f76e65dbc0b6f03cd0e7aa",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 3:00PM - 4:20PM",
+          "room": "Fisher Science 033 -0287",
+          "instructor": "Sean Hurley",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$31",
+        "retrievedAt": "2026-10-30T01:05:52.470Z",
+        "sha256": "de0ad4d5440b8852a786045100a5a2275febae49b0d4a1ddbccebd29b85b611b",
+        "evidenceFile": "0064.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:52.470Z",
+      "updatedAt": "2026-10-30T01:05:52.470Z",
+      "lastSeenAt": "2026-10-30T01:05:52.470Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3322",
+      "title": "Principles of Agribusiness Management",
+      "crn": "2779",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:959c2d5b553668843a8df7e108b018815e0f73e555a64eafe5d4cbe318959ac2",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 9:00AM - 10:20AM",
+          "room": "Fisher Science 033 -0287",
+          "instructor": "Maria Gerveni",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$32",
+        "retrievedAt": "2026-10-30T01:05:55.135Z",
+        "sha256": "a2b7d0f25b2e42e48a0494941d96a24e75b71c1548c956b9ad366784da275eac",
+        "evidenceFile": "0066.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:55.135Z",
+      "updatedAt": "2026-10-30T01:05:55.135Z",
+      "lastSeenAt": "2026-10-30T01:05:55.135Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3322",
+      "title": "Principles of Agribusiness Management",
+      "crn": "2780",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:23c11c95a9925fc105a2b07293540aa92c4ec35d284c1fcf32de8a3ab7dde70a",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 1:30PM - 2:50PM",
+          "room": "Erhart Agriculture 010 -0220",
+          "instructor": "Lucy McGowan",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$33",
+        "retrievedAt": "2026-10-30T01:05:57.767Z",
+        "sha256": "a6136d6cdc730556d0ec0cfb9112a509bd8d2b5f824c3540d30eb3709993a999",
+        "evidenceFile": "0068.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:05:57.767Z",
+      "updatedAt": "2026-10-30T01:05:57.767Z",
+      "lastSeenAt": "2026-10-30T01:05:57.767Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3323",
+      "title": "Decision Making with Agribusiness Accounting Information",
+      "crn": "2782",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:9269b0a2daa1cfe15a5daac76600aa87272a95dae599b8410dca821af4d15922",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 12:00PM - 1:20PM",
+          "room": "Business 003 -0112",
+          "instructor": "Tim Ridout",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=2782",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$34",
+        "retrievedAt": "2026-10-30T01:06:01.021Z",
+        "sha256": "8138f9e824d18f07d9106a1d133e60d089f39935fdeed8353416c02524e4821d",
+        "evidenceFile": "0070.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:06:01.021Z",
+      "updatedAt": "2026-10-30T01:06:01.021Z",
+      "lastSeenAt": "2026-10-30T01:06:01.021Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3327",
+      "title": "Agribusiness Data Analysis",
+      "crn": "2798",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:a5c2d3648a192892afc7a478807dc7dde8f1975697dcc1954bce1ad1a3452315",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 4:30PM - 5:50PM",
+          "room": "Baker Ctr Sci & Math 180 -0230",
+          "instructor": "Stamatina Kotsakou",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$35",
+        "retrievedAt": "2026-10-30T01:06:03.665Z",
+        "sha256": "377c70b683a37975fb090eaf9d7d4480f7d5e60e13b28bfcbd8073f157b7f41c",
+        "evidenceFile": "0072.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:06:03.665Z",
+      "updatedAt": "2026-10-30T01:06:03.665Z",
+      "lastSeenAt": "2026-10-30T01:06:03.665Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3327",
+      "title": "Agribusiness Data Analysis",
+      "crn": "2799",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:55e2da54438f00bbec88b0324b44dba5f24fcdaa18a15322681e1387c6ac0311",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 1:30PM - 2:50PM",
+          "room": "Erhart Agriculture 010 -0215",
+          "instructor": "Bill Townsend",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$36",
+        "retrievedAt": "2026-10-30T01:06:06.294Z",
+        "sha256": "dfb2d47f1342e0b7cf95f1e4d0c0243b591d525ddfb8bfdd1e59f844446e9e60",
+        "evidenceFile": "0074.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:06:06.294Z",
+      "updatedAt": "2026-10-30T01:06:06.294Z",
+      "lastSeenAt": "2026-10-30T01:06:06.294Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3327",
+      "title": "Agribusiness Data Analysis",
+      "crn": "2800",
+      "sectionNumber": "S03",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:06368339a9ac6e5d7f09114a13703a380414f1081dcf45bd3c90576924ef9aa1",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 3:00PM - 4:20PM",
+          "room": "Erhart Agriculture 010 -0215",
+          "instructor": "Bill Townsend",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$37",
+        "retrievedAt": "2026-10-30T01:06:09.011Z",
+        "sha256": "4f717545ed5ba0e532cbc9566b08b12a4b5e224519a5a4d110d40c8fabf28e31",
+        "evidenceFile": "0076.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:06:09.011Z",
+      "updatedAt": "2026-10-30T01:06:09.011Z",
+      "lastSeenAt": "2026-10-30T01:06:09.011Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3328",
+      "title": "Decision Tools for Agribusiness",
+      "crn": "2801",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:7366bafec00b4f1258a161962a9454160b1fa74ae3e26d5c29b16cc6c1e5dfc0",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 9:00AM - 10:20AM",
+          "room": "Erhart Agriculture 010 -0204",
+          "instructor": "Maria Gerveni",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$38",
+        "retrievedAt": "2026-10-30T01:06:10.783Z",
+        "sha256": "98dd0dbbb2440d4cda212477cf07483b9678ba7608b1cc6edf483c782510d2b7",
+        "evidenceFile": "0078.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:06:10.783Z",
+      "updatedAt": "2026-10-30T01:06:10.783Z",
+      "lastSeenAt": "2026-10-30T01:06:10.783Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3328",
+      "title": "Decision Tools for Agribusiness",
+      "crn": "2802",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:ce2ea7c7f27b22ead116f61c75c75c1a0bc78d451acce1f4cd94015040fc26c1",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 6:00PM - 7:20PM",
+          "room": "Erhart Agriculture 010 -0215",
+          "instructor": "Ekaterina Stoliarova",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$39",
+        "retrievedAt": "2026-10-30T01:06:12.893Z",
+        "sha256": "1890e10af6970d84f1792ab3a9c5e58f5da94f1aae151d67243b0e601cd9cf95",
+        "evidenceFile": "0080.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:06:12.893Z",
+      "updatedAt": "2026-10-30T01:06:12.893Z",
+      "lastSeenAt": "2026-10-30T01:06:12.893Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3328",
+      "title": "Decision Tools for Agribusiness",
+      "crn": "8282",
+      "sectionNumber": "S03",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:378e70063a81491e400e63f99347c6c42e446ddb7f1a411f89a33a6fbd930ab8",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 10:30AM - 11:50AM",
+          "room": "Erhart Agriculture 010 -0203",
+          "instructor": "Ekaterina Stoliarova",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$40",
+        "retrievedAt": "2026-10-30T01:06:15.296Z",
+        "sha256": "af867f4e44810f21b60182271ec783f7972b4675bfad51264f902e8f1c2d9193",
+        "evidenceFile": "0082.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:06:15.296Z",
+      "updatedAt": "2026-10-30T01:06:15.296Z",
+      "lastSeenAt": "2026-10-30T01:06:15.296Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3352",
+      "title": "Agricultural Strategic Decision Making",
+      "crn": "2789",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:777b0f3fb693cc442abb4232567f19a326425f164bbeb81a96e9fc3268385550",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 1:30PM - 2:50PM",
+          "room": "Fisher Science 033 -0287",
+          "instructor": "Sean Hurley",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=2789",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$41",
+        "retrievedAt": "2026-10-30T01:06:17.272Z",
+        "sha256": "ebb363cec848e827652de6c32dae18a5455f1091a929f462e1d4f11d11dc070c",
+        "evidenceFile": "0084.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:06:17.272Z",
+      "updatedAt": "2026-10-30T01:06:17.272Z",
+      "lastSeenAt": "2026-10-30T01:06:17.272Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3369",
+      "title": "Agricultural Personnel Management",
+      "crn": "2807",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:b65703ee37373508704f855fd3b6bbd802def2243fb37fb5a28fa179c1cab262",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 1:30PM - 2:50PM",
+          "room": "Erhart Agriculture 010 -0125",
+          "instructor": "Hong H",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$42",
+        "retrievedAt": "2026-10-30T01:06:19.116Z",
+        "sha256": "9ed7d7077afb1947741cb1eb10e33d76e904db28896fd9bf433a769fc67d32aa",
+        "evidenceFile": "0086.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:06:19.116Z",
+      "updatedAt": "2026-10-30T01:06:19.116Z",
+      "lastSeenAt": "2026-10-30T01:06:19.116Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3369",
+      "title": "Agricultural Personnel Management",
+      "crn": "2808",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:aa97335d8bfa7fd07f84c7e0eb26db9c40ac77ef0adcb4cef210b673b26e3d28",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 3:00PM - 4:20PM",
+          "room": "Erhart Agriculture 010 -0231",
+          "instructor": "Hong H",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$43",
+        "retrievedAt": "2026-10-30T01:06:21.900Z",
+        "sha256": "9feb596104a7555d855fdb1cdd83aa00635785ba022708726e70176e76408321",
+        "evidenceFile": "0088.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:06:21.900Z",
+      "updatedAt": "2026-10-30T01:06:21.900Z",
+      "lastSeenAt": "2026-10-30T01:06:21.900Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3369",
+      "title": "Agricultural Personnel Management",
+      "crn": "2809",
+      "sectionNumber": "S03",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:6abc37966de038507bf89dedcac22057a6003b86ca97768a7a6ff6c87faa0084",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 10:30AM - 11:50AM",
+          "room": "Erhart Agriculture 010 -0220",
+          "instructor": "Dwayne Brummett",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=2809",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$44",
+        "retrievedAt": "2026-10-30T01:06:23.653Z",
+        "sha256": "88371ca9294bfdd1ce99dbf93e3441b4fc6e91436672dcc49348114f78d30fc3",
+        "evidenceFile": "0090.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:06:23.653Z",
+      "updatedAt": "2026-10-30T01:06:23.653Z",
+      "lastSeenAt": "2026-10-30T01:06:23.653Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "3369",
+      "title": "Agricultural Personnel Management",
+      "crn": "8172",
+      "sectionNumber": "S04",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:6aaeae00bca01cb1c64011a8d812c05b1e30c600727d3dacf3bd8f61b718a716",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 9:00AM - 10:20AM",
+          "room": "Erhart Agriculture 010 -0206",
+          "instructor": "Gil Medeiros De Paula",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$45",
+        "retrievedAt": "2026-10-30T01:06:26.186Z",
+        "sha256": "550e532103cddcb470669741a8eb826d97fc27a9f2c2a2d6e0bfa9725d66ef14",
+        "evidenceFile": "0092.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:06:26.186Z",
+      "updatedAt": "2026-10-30T01:06:26.186Z",
+      "lastSeenAt": "2026-10-30T01:06:26.186Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "4404",
+      "title": "Food Retail Management",
+      "crn": "2762",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:c95e8befb9e8f9b25bfee01eb733210080f2cc309209e0c49347b5a7b79ba815",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 3:00PM - 4:20PM",
+          "room": "Constr Innovations Center C200",
+          "instructor": "Richard Volpe",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$46",
+        "retrievedAt": "2026-10-30T01:06:29.129Z",
+        "sha256": "b905ac50917362198d64e622b7dd18d53446bb1fd0f349964801d958ddb9803b",
+        "evidenceFile": "0094.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:06:29.129Z",
+      "updatedAt": "2026-10-30T01:06:29.129Z",
+      "lastSeenAt": "2026-10-30T01:06:29.129Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "4405",
+      "title": "Agribusiness Marketing Research Methods",
+      "crn": "8718",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:e6e3f18ac6b8fd1553c8fdb5409dbc0e41f04590acca67985575623bf53282fb",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 6:00PM - 7:20PM",
+          "room": "Erhart Agriculture 010 -0115",
+          "instructor": "Stamatina Kotsakou",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$47",
+        "retrievedAt": "2026-10-30T01:06:31.119Z",
+        "sha256": "311dd3290f6ad78d622d7f9e0e17aaa702b1dd0d7b1a8927858f73832fda79f3",
+        "evidenceFile": "0096.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:06:31.119Z",
+      "updatedAt": "2026-10-30T01:06:31.119Z",
+      "lastSeenAt": "2026-10-30T01:06:31.119Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "4445",
+      "title": "Produce Marketing",
+      "crn": "9197",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:845073a4c841fbc3b3c97005431d52d6deff4c3d9165e45ef6623ead8ae3f9eb",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 3:00PM - 4:20PM",
+          "room": "Erhart Agriculture 010 -0206",
+          "instructor": "Ekaterina Stoliarova",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$48",
+        "retrievedAt": "2026-10-30T01:06:33.756Z",
+        "sha256": "83af7afbc8e51010a7beab77e56dcba1fa41cde37783e1147174f8eed0f227d2",
+        "evidenceFile": "0098.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:06:33.756Z",
+      "updatedAt": "2026-10-30T01:06:33.756Z",
+      "lastSeenAt": "2026-10-30T01:06:33.756Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "4450",
+      "title": "Agribusiness Strategy Formulation",
+      "crn": "7814",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:4323baa0f4fe23833199515b6e0f28f0788fba7d098e8e24ff192d51a9adc02d",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 12:00PM - 1:20PM",
+          "room": "Erhart Agriculture 010 -0206",
+          "instructor": "Lucy McGowan",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$49",
+        "retrievedAt": "2026-10-30T01:06:36.103Z",
+        "sha256": "8370dc47c33f17400e3d7f5c37c32d5cd77ab630f1ac7ab92fd1bb26bf03e992",
+        "evidenceFile": "0100.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:06:36.103Z",
+      "updatedAt": "2026-10-30T01:06:36.103Z",
+      "lastSeenAt": "2026-10-30T01:06:36.103Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "4462",
+      "title": "Senior Project - Applied Agribusiness Problems",
+      "crn": "2795",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:f191645ec1fb337288b1416ba08675a5f4f8df7ee94ff12c73192736b945f9e4",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 3:00PM - 4:20PM",
+          "room": "Math & Science 038 -0221",
+          "instructor": "Lucy McGowan",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$50",
+        "retrievedAt": "2026-10-30T01:06:38.862Z",
+        "sha256": "03dcb840592fb39edb2dfb667b5654c4a8b84bd25cad4b93d324f964328876c8",
+        "evidenceFile": "0102.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:06:38.862Z",
+      "updatedAt": "2026-10-30T01:06:38.862Z",
+      "lastSeenAt": "2026-10-30T01:06:38.862Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "4462",
+      "title": "Senior Project - Applied Agribusiness Problems",
+      "crn": "2796",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:e486e3ece68f7d081f9f105c223833d08545cb038e3e83ca3baf542373eef6ad",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 10:30AM - 11:50AM",
+          "room": "Kennedy Library 0216A",
+          "instructor": "Christiane Schroeter",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$51",
+        "retrievedAt": "2026-10-30T01:06:40.647Z",
+        "sha256": "724e2462ec5e6f6e4b9dc26c04476fea40f0e28cb0784d7ffc7f461107a44421",
+        "evidenceFile": "0104.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:06:40.647Z",
+      "updatedAt": "2026-10-30T01:06:40.647Z",
+      "lastSeenAt": "2026-10-30T01:06:40.647Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "4463",
+      "title": "Senior Project - Agribusiness Consulting",
+      "crn": "9139",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:1996f103d098c3f2d8607854696e51e63a41595ca0254fe30807d1139a3e1e9b",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 1:30PM - 2:50PM",
+          "room": "Erhart Agriculture 010 -0206",
+          "instructor": "Richard Volpe",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$52",
+        "retrievedAt": "2026-10-30T01:06:42.902Z",
+        "sha256": "8d0d4ec1e49dc2d0ba5b0268a6f53480028547fb417a6584b9f0184ee7041226",
+        "evidenceFile": "0106.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:06:42.902Z",
+      "updatedAt": "2026-10-30T01:06:42.902Z",
+      "lastSeenAt": "2026-10-30T01:06:42.902Z"
+    },
+    {
+      "subject": "AGB",
+      "number": "4470",
+      "title": "Special Advanced Topics",
+      "crn": "2793",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:eae321011d12679d396e09a7a3585a8843972329461c730d425f1ff862954216",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 1:30PM - 2:50PM",
+          "room": "Erhart Agriculture 010 -0124",
+          "instructor": "Daniel Scheitrum",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$53",
+        "retrievedAt": "2026-10-30T01:06:45.008Z",
+        "sha256": "7b1e3cc218b34924d4fae97f2924d4ed2d874e1368766fe7555c68d30336cc6f",
+        "evidenceFile": "0108.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T010423-1a2670ed/AGB/.runs/extract-1/20261030T010430-db71f490/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AGB",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "8406ffad75d7f5eae78866fdffaea27d49ef4ab4d1066cd34a1d3ec54951c399"
+      },
+      "firstSeenAt": "2026-10-30T01:06:45.008Z",
+      "updatedAt": "2026-10-30T01:06:45.008Z",
+      "lastSeenAt": "2026-10-30T01:06:45.008Z"
+    }
+  ]
+}

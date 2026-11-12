@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "scope": {
+    "institution": "SLCMP",
+    "termId": "2268",
+    "campus": "MAIN",
+    "subject": "BIO",
+    "courseNumber": "1111",
+    "includeClosed": true
+  },
+  "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+  "mode": "live",
+  "capturePath": "data/sections/.runs/2268-MAIN-BIO-1111/20261028T072543-6ba86933/capture.json",
+  "generatedAt": "2026-10-28T07:25:51.608Z",
+  "complete": true,
+  "contentSha256": "81f76f2fb44e79c8a32f77084f54b8cb5c8a8462fcabc1af175c9e2d620f11e0",
+  "sectionCount": 3,
+  "courseCount": 1,
+  "termLabel": "Cal Poly | Fall Semester 2026",
+  "sections": [
+    {
+      "subject": "BIO",
+      "number": "1111",
+      "title": "General Biology",
+      "crn": "6369",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:87dcbedb042e41e1805d8956ff9530e8569606bcaae75ba39e9225dbe88ec569",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWeFr 10:00AM - 10:50AM",
+          "room": "Performing Arts Ctr 006 -0124",
+          "instructor": "Haley Moniz",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=6369",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$0",
+        "retrievedAt": "2026-10-28T07:25:47.482Z",
+        "sha256": "547aa2dcd8d323c9b536a0adaf7dd5f17c4dfbc71f3dd6f1ecbe8d8792893141",
+        "evidenceFile": "0001.html",
+        "capturePath": "data/sections/.runs/2268-MAIN-BIO-1111/20261028T072543-6ba86933/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "BIO",
+          "courseNumber": "1111",
+          "includeClosed": true
+        },
+        "resultsSha256": "5c18bb8c900206fdd7a8cc9dae0171d474bd08f1405bd0a6261cc19b36024b96"
+      },
+      "firstSeenAt": "2026-10-28T07:15:49.421Z",
+      "updatedAt": "2026-10-28T07:15:49.421Z",
+      "lastSeenAt": "2026-10-28T07:25:47.482Z"
+    },
+    {
+      "subject": "BIO",
+      "number": "1111",
+      "title": "General Biology",
+      "crn": "6370",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:168499f379c5378af719777e13184a3998f38d93eb7aa7ec273744c2c8ab8b3b",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 12:00PM - 1:20PM",
+          "room": "AG Engineering 008 -0123",
+          "instructor": "Charles Knight",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=6370",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$1",
+        "retrievedAt": "2026-10-28T07:25:49.461Z",
+        "sha256": "013cc772bf6369b47f2a72c5e5857957ed7124723d129a2f57c440a024ce69ee",
+        "evidenceFile": "0003.html",
+        "capturePath": "data/sections/.runs/2268-MAIN-BIO-1111/20261028T072543-6ba86933/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "BIO",
+          "courseNumber": "1111",
+          "includeClosed": true
+        },
+        "resultsSha256": "5c18bb8c900206fdd7a8cc9dae0171d474bd08f1405bd0a6261cc19b36024b96"
+      },
+      "firstSeenAt": "2026-10-28T07:15:51.409Z",
+      "updatedAt": "2026-10-28T07:15:51.409Z",
+      "lastSeenAt": "2026-10-28T07:25:49.461Z"
+    },
+    {
+      "subject": "BIO",
+      "number": "1111",
+      "title": "General Biology",
+      "crn": "6371",
+      "sectionNumber": "S03",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:8edc3f2ac668e4199893c4be476582295c688009a6c825b3e295928a3bc2d540",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWeFr 12:00PM - 12:50PM",
+          "room": "AG Engineering 008 -0123",
+          "instructor": "Weston Gonor, Charles Knight",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=6371",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$2",
+        "retrievedAt": "2026-10-28T07:25:51.601Z",
+        "sha256": "e836ca7dd7f2dea5200682326eb6b165bd83411f1c92cb34ada70f87c8e64fca",
+        "evidenceFile": "0005.html",
+        "capturePath": "data/sections/.runs/2268-MAIN-BIO-1111/20261028T072543-6ba86933/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "BIO",
+          "courseNumber": "1111",
+          "includeClosed": true
+        },
+        "resultsSha256": "5c18bb8c900206fdd7a8cc9dae0171d474bd08f1405bd0a6261cc19b36024b96"
+      },
+      "firstSeenAt": "2026-10-28T07:15:53.330Z",
+      "updatedAt": "2026-10-28T07:15:53.330Z",
+      "lastSeenAt": "2026-10-28T07:25:51.601Z"
+    }
+  ]
+}

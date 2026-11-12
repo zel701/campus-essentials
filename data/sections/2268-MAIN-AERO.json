@@ -1,0 +1,2746 @@
+{
+  "schemaVersion": 1,
+  "scope": {
+    "institution": "SLCMP",
+    "termId": "2268",
+    "campus": "MAIN",
+    "subject": "AERO",
+    "courseNumber": null,
+    "includeClosed": true
+  },
+  "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+  "mode": "live",
+  "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+  "generatedAt": "2026-10-30T00:56:16.630Z",
+  "complete": true,
+  "contentSha256": "d3146f5afdb1c198a7ad1c2721c5fd17e14eb9f82fd5abe135d5a6f5c3b291b5",
+  "sectionCount": 59,
+  "courseCount": 30,
+  "termLabel": "Cal Poly | Fall Semester 2026",
+  "sections": [
+    {
+      "subject": "AERO",
+      "number": "1121",
+      "title": "Aerospace Fundamentals",
+      "crn": "1267",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:99a613e59743857814fa6c91653b338ea7f5b4c883d6f5b5641a369cfca19d96",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "2 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Mo 9:00AM - 9:50AM",
+          "room": "On Campus - Indoor Space",
+          "instructor": "Kira Abercromby",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$0",
+        "retrievedAt": "2026-10-30T00:54:02.721Z",
+        "sha256": "2e2ad114a783aafffffe1ec299549b57aa52bc670b1367f2a515bf3bcee32290",
+        "evidenceFile": "0002.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:02.721Z",
+      "updatedAt": "2026-10-30T00:54:02.721Z",
+      "lastSeenAt": "2026-10-30T00:54:02.721Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "1121",
+      "title": "Aerospace Fundamentals",
+      "crn": "1268",
+      "sectionNumber": "S02",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:321d0ee73317a97d4c5b715e858b38cbc9a4e849fb7a441b7be64b8759570d45",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Mo 12:00PM - 2:50PM",
+          "room": "Engineering III 041 -0121",
+          "instructor": "Isai Villanueva",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$1",
+        "retrievedAt": "2026-10-30T00:54:05.006Z",
+        "sha256": "16e57fa3dda3209a7ff961baac9dfa0c2158cc00fc9c29c3a4fb420eb052b148",
+        "evidenceFile": "0004.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:05.006Z",
+      "updatedAt": "2026-10-30T00:54:05.006Z",
+      "lastSeenAt": "2026-10-30T00:54:05.006Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "1121",
+      "title": "Aerospace Fundamentals",
+      "crn": "1269",
+      "sectionNumber": "S03",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:b43ea0d54202cee4c8181699328b802058d63078ad7508dea518c8b9a7be374f",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Mo 3:00PM - 5:50PM",
+          "room": "Engineering III 041 -0121",
+          "instructor": "Michael Sobczak",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$2",
+        "retrievedAt": "2026-10-30T00:54:07.133Z",
+        "sha256": "139239eb4289dc8933a2c0063b082833126a5f3cadb0e690b75bb816561546c1",
+        "evidenceFile": "0006.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:07.133Z",
+      "updatedAt": "2026-10-30T00:54:07.133Z",
+      "lastSeenAt": "2026-10-30T00:54:07.133Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "1121",
+      "title": "Aerospace Fundamentals",
+      "crn": "1270",
+      "sectionNumber": "S04",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:ac6f79f3ce89a27304d1290f4bd562acef4fbc4617b33318fd939711a0768a2a",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Tu 12:00PM - 2:50PM",
+          "room": "Engineering III 041 -0121",
+          "instructor": "Roshan Jaiswal-Ferri",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$3",
+        "retrievedAt": "2026-10-30T00:54:09.164Z",
+        "sha256": "6c6dfd26bca04cc3c7954203acba950a2fb671d6e6b55f4218e3a2b8afa8d564",
+        "evidenceFile": "0008.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:09.164Z",
+      "updatedAt": "2026-10-30T00:54:09.164Z",
+      "lastSeenAt": "2026-10-30T00:54:09.164Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "1121",
+      "title": "Aerospace Fundamentals",
+      "crn": "1271",
+      "sectionNumber": "S05",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:925a3c2633c766ee62b31fef4334846bc88d2aac1a784019d4d2e24dd535d8b3",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Tu 3:00PM - 5:50PM",
+          "room": "Engineering III 041 -0121",
+          "instructor": "Stefanos Rosenbaum",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$4",
+        "retrievedAt": "2026-10-30T00:54:11.474Z",
+        "sha256": "bb90dce01d5e36dfc09c8e1b25536e853d97ec3b8cc0fd8f1479fa9a08e3e7b5",
+        "evidenceFile": "0010.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:11.474Z",
+      "updatedAt": "2026-10-30T00:54:11.474Z",
+      "lastSeenAt": "2026-10-30T00:54:11.474Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "1121",
+      "title": "Aerospace Fundamentals",
+      "crn": "1272",
+      "sectionNumber": "S06",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:0fdd9244f0bd37666c5c79b4108bd569accf43ff86d5cc4c70b403abff6496fa",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "We 9:00AM - 11:50AM",
+          "room": "Engineering III 041 -0121",
+          "instructor": "Isai Villanueva",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$5",
+        "retrievedAt": "2026-10-30T00:54:13.832Z",
+        "sha256": "d644eefffcd9f99987aba0bf0074c7819126a3f0b4b3aed9a9690656085555be",
+        "evidenceFile": "0012.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:13.832Z",
+      "updatedAt": "2026-10-30T00:54:13.832Z",
+      "lastSeenAt": "2026-10-30T00:54:13.832Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "1121",
+      "title": "Aerospace Fundamentals",
+      "crn": "1353",
+      "sectionNumber": "S07",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:1cb8f330dc675085a9d9304b2d5de80c0656cafff20738e9ad0d6a6b2cc7c291",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Th 12:00PM - 2:50PM",
+          "room": "Engineering III 041 -0121",
+          "instructor": "Matthew Camber",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$6",
+        "retrievedAt": "2026-10-30T00:54:16.522Z",
+        "sha256": "02ee45d723fa9cdf776851fed9bd0c126abee093766545b9cb1725c38a1c8484",
+        "evidenceFile": "0014.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:16.522Z",
+      "updatedAt": "2026-10-30T00:54:16.522Z",
+      "lastSeenAt": "2026-10-30T00:54:16.522Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "1121",
+      "title": "Aerospace Fundamentals",
+      "crn": "1273",
+      "sectionNumber": "S08",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:0690da4934813cdaba01a9d9d367d935adc6803013cab04f536ff53617a3e62e",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Fr 12:00PM - 2:50PM",
+          "room": "Engineering III 041 -0121",
+          "instructor": "Aseem Nevrekar",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$7",
+        "retrievedAt": "2026-10-30T00:54:19.058Z",
+        "sha256": "8fd10c94052b46fd979fc3eb6632c66457e867cd2c61f27d4375247dc96974d5",
+        "evidenceFile": "0016.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:19.058Z",
+      "updatedAt": "2026-10-30T00:54:19.058Z",
+      "lastSeenAt": "2026-10-30T00:54:19.058Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "2200",
+      "title": "Special Problems for Undergraduates",
+      "crn": "1274",
+      "sectionNumber": "S01",
+      "component": "IND",
+      "session": "Regular",
+      "id": "scheduleSection:df9162494301313282517ef084c788a84d852a403554b37f59ff2104afdc2bba",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 - 3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Eric Mehiel",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$8",
+        "retrievedAt": "2026-10-30T00:54:21.445Z",
+        "sha256": "281526e8bf1af96049f1b20af466690e5667db2506df6177fe82333aea01d9a6",
+        "evidenceFile": "0018.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:21.445Z",
+      "updatedAt": "2026-10-30T00:54:21.445Z",
+      "lastSeenAt": "2026-10-30T00:54:21.445Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "2220",
+      "title": "Aerospace Engineering Dynamics",
+      "crn": "1341",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:c2d94e16aa81172968f4e4513d23f2ee21d3a763e95c5c2cbadb48a53625b896",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 12:00PM - 1:20PM",
+          "room": "Frank E. Pilling 014 -0246",
+          "instructor": "Madhusudan Vijayakumar",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$9",
+        "retrievedAt": "2026-10-30T00:54:23.615Z",
+        "sha256": "109556bb2b3b21e2d5a6f49f263c2308da0179ebaee78da102c4760a5da0c67d",
+        "evidenceFile": "0020.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:23.615Z",
+      "updatedAt": "2026-10-30T00:54:23.615Z",
+      "lastSeenAt": "2026-10-30T00:54:23.615Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "3300",
+      "title": "Engineering Numerical Analysis",
+      "crn": "1288",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:896050cd6df39134a1dc895507f369d75a76b5cb6ff7a0930da2960721345f84",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "4 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 9:00AM - 10:20AM",
+          "room": "Dexter Building 034 -0227",
+          "instructor": "David Marshall",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=1288",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$10",
+        "retrievedAt": "2026-10-30T00:54:25.778Z",
+        "sha256": "1c53897f37e3e266f45b84d93a193c0d3be6b3f84bc521a4d50d2f8794ea4e12",
+        "evidenceFile": "0022.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:25.778Z",
+      "updatedAt": "2026-10-30T00:54:25.778Z",
+      "lastSeenAt": "2026-10-30T00:54:25.778Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "3300",
+      "title": "Engineering Numerical Analysis",
+      "crn": "1289",
+      "sectionNumber": "S02",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:431d57d1a2d55dc3bdd96d9b88b1603940bb3a62a9e0eeff256fc37ded1e65f1",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Tu 9:00AM - 11:50AM",
+          "room": "Engineering IV 0322",
+          "instructor": "Lubos Brieda",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=1289",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$11",
+        "retrievedAt": "2026-10-30T00:54:28.396Z",
+        "sha256": "9211f6caf7619a779e85fdb57b707726a292602e9e2c4576cd2d5cd5b0fba53c",
+        "evidenceFile": "0024.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:28.396Z",
+      "updatedAt": "2026-10-30T00:54:28.396Z",
+      "lastSeenAt": "2026-10-30T00:54:28.396Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "3300",
+      "title": "Engineering Numerical Analysis",
+      "crn": "1290",
+      "sectionNumber": "S03",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:32e94b8f0ef5e662fd5af2713f0cd61ed1233630319efbddffda6c0a62f8a823",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Th 9:00AM - 11:50AM",
+          "room": "Engineering IV 0322",
+          "instructor": "Kira Abercromby",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$12",
+        "retrievedAt": "2026-10-30T00:54:30.530Z",
+        "sha256": "fe3b19071eb5de13a3e09fa75d85773aecfce29aa1762ae60c4f35d671f00fa2",
+        "evidenceFile": "0026.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:30.530Z",
+      "updatedAt": "2026-10-30T00:54:30.530Z",
+      "lastSeenAt": "2026-10-30T00:54:30.530Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "3300",
+      "title": "Engineering Numerical Analysis",
+      "crn": "7866",
+      "sectionNumber": "S04",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:5ddc0fa83a6d178abf456fb451068005203f0eebd81a59e1b956baab960b8446",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Fr 12:00PM - 2:50PM",
+          "room": "Engineering IV 0322",
+          "instructor": "David Marshall",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=7866",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$13",
+        "retrievedAt": "2026-10-30T00:54:32.371Z",
+        "sha256": "4c274e3ab92af76475a3e93bed7aef21fc1c7006aa41d835e78e09eed5836847",
+        "evidenceFile": "0028.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:32.371Z",
+      "updatedAt": "2026-10-30T00:54:32.371Z",
+      "lastSeenAt": "2026-10-30T00:54:32.371Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "3301",
+      "title": "Thermo Fluid Dynamics",
+      "crn": "1343",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:df907a2444457a1a3dea067b7afa73126f5013f92e03fcd6be2d59026100cd24",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "4 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 12:00PM - 1:50PM",
+          "room": "Fisher Science 033 -0286",
+          "instructor": "Nandeesh Hiremath",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=1343",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$14",
+        "retrievedAt": "2026-10-30T00:54:34.502Z",
+        "sha256": "90727043ec06bd952414a4bd12060732cd421a200821d9d6d1904cba36582b2b",
+        "evidenceFile": "0030.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:34.502Z",
+      "updatedAt": "2026-10-30T00:54:34.502Z",
+      "lastSeenAt": "2026-10-30T00:54:34.502Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "3302",
+      "title": "Thermo Fluids Laboratory",
+      "crn": "1344",
+      "sectionNumber": "S01",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:79cc45283ded86829a89a4ade885e0aa9d2ce168c7bc772d0ce98847855bb6c7",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "1 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Mo 3:00PM - 5:50PM",
+          "room": "Engineering III 041 -0144",
+          "instructor": "Aseem Nevrekar",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$15",
+        "retrievedAt": "2026-10-30T00:54:36.790Z",
+        "sha256": "90582795831e4e8dbb0c193dd37d7642d55e259348f9977a2ee3b4919211e739",
+        "evidenceFile": "0032.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:36.790Z",
+      "updatedAt": "2026-10-30T00:54:36.790Z",
+      "lastSeenAt": "2026-10-30T00:54:36.790Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "3302",
+      "title": "Thermo Fluids Laboratory",
+      "crn": "1345",
+      "sectionNumber": "S02",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:47659877a6aa8ca0ff11a344e48e7dc6ba59e6ef9555fa195af6bd6c94c96d91",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "1 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Tu 3:00PM - 5:50PM",
+          "room": "Engineering III 041 -0144",
+          "instructor": "Aseem Nevrekar",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$16",
+        "retrievedAt": "2026-10-30T00:54:38.732Z",
+        "sha256": "34ccc7bbd711744bb06f47d697c750b012dd19a7dd5b879c229b693f283343b8",
+        "evidenceFile": "0034.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:38.732Z",
+      "updatedAt": "2026-10-30T00:54:38.732Z",
+      "lastSeenAt": "2026-10-30T00:54:38.732Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "3302",
+      "title": "Thermo Fluids Laboratory",
+      "crn": "1346",
+      "sectionNumber": "S03",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:234642f0c80129eb34839361c2588c0d573a4a3e803046f047d3669e255e3db0",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "1 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "We 3:00PM - 5:50PM",
+          "room": "Engineering III 041 -0144",
+          "instructor": "William Saucier",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$17",
+        "retrievedAt": "2026-10-30T00:54:41.180Z",
+        "sha256": "90f85ac8a5adb817072ef77087c65c64b5b7d0fa99c64c2f7d74b4dba5e6627c",
+        "evidenceFile": "0036.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:41.180Z",
+      "updatedAt": "2026-10-30T00:54:41.180Z",
+      "lastSeenAt": "2026-10-30T00:54:41.180Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "3302",
+      "title": "Thermo Fluids Laboratory",
+      "crn": "1347",
+      "sectionNumber": "S04",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:9030fa6458fe2dce0997a795d29f4caafb68c86cf8cc8825e81a693e5b20846c",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "1 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Th 9:00AM - 11:50AM",
+          "room": "Engineering III 041 -0144",
+          "instructor": "Michael Sobczak",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$18",
+        "retrievedAt": "2026-10-30T00:54:43.870Z",
+        "sha256": "9e0a27e6fd738057a7543b11505dfb9db8cc0bf6e02657e543d1534a5723bb79",
+        "evidenceFile": "0038.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:43.870Z",
+      "updatedAt": "2026-10-30T00:54:43.870Z",
+      "lastSeenAt": "2026-10-30T00:54:43.870Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "3302",
+      "title": "Thermo Fluids Laboratory",
+      "crn": "1348",
+      "sectionNumber": "S05",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:1879557b83e7db8989b8ec06fa8a127e4dee9f9a3e3f0842fd86243ef7dfd07f",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "1 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Tu 9:00AM - 11:50AM",
+          "room": "Engineering III 041 -0144",
+          "instructor": "Michael Sobczak",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$19",
+        "retrievedAt": "2026-10-30T00:54:46.229Z",
+        "sha256": "3bb5f4f6c408dc7f3a8bf813bbae2b3120af705419db62ba821a0db2a6b38cd7",
+        "evidenceFile": "0040.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:46.229Z",
+      "updatedAt": "2026-10-30T00:54:46.229Z",
+      "lastSeenAt": "2026-10-30T00:54:46.229Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "3302",
+      "title": "Thermo Fluids Laboratory",
+      "crn": "1349",
+      "sectionNumber": "S06",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:1cba0fc1020d03699e6b7767470939cd21b3a172ec7353658c47b963b479ece3",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Fr 12:00PM - 2:50PM",
+          "room": "Engineering III 041 -0144",
+          "instructor": "William Saucier",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$20",
+        "retrievedAt": "2026-10-30T00:54:48.553Z",
+        "sha256": "53f89b374f8df31e71304732878f0e682907e120e272a43c6dc384cf258ff09e",
+        "evidenceFile": "0042.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:48.553Z",
+      "updatedAt": "2026-10-30T00:54:48.553Z",
+      "lastSeenAt": "2026-10-30T00:54:48.553Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "3302",
+      "title": "Thermo Fluids Laboratory",
+      "crn": "1350",
+      "sectionNumber": "S07",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:83332a25cb9a27fd41d88cb64d31a255b5acaf47d27c48b28763506f4dfa3720",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "1 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Fr 8:00AM - 10:50AM",
+          "room": "Engineering III 041 -0144",
+          "instructor": "William Saucier",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$21",
+        "retrievedAt": "2026-10-30T00:54:51.777Z",
+        "sha256": "fdb2fbfe8559be16c3a5b5bb0ca53cb64b0f3b69637c1a3d3b0eb0425cf5fb39",
+        "evidenceFile": "0044.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:51.777Z",
+      "updatedAt": "2026-10-30T00:54:51.777Z",
+      "lastSeenAt": "2026-10-30T00:54:51.777Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "3304",
+      "title": "Aerospace Propulsion Systems",
+      "crn": "1305",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:e8bb8dac663fc6aa7e73e7488aab2b7aef027dd2a42e6b8315fc8bac5dd3b665",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 12:00PM - 1:20PM",
+          "room": "Engineering West 021 -0133",
+          "instructor": "William Saucier",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=1305",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$22",
+        "retrievedAt": "2026-10-30T00:54:53.954Z",
+        "sha256": "f564f645994e1cdb9be5cf019339ac3f9fdb31520388ed0e84976fbd33a72ccf",
+        "evidenceFile": "0046.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:53.954Z",
+      "updatedAt": "2026-10-30T00:54:53.954Z",
+      "lastSeenAt": "2026-10-30T00:54:53.954Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "3304",
+      "title": "Aerospace Propulsion Systems",
+      "crn": "1306",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:22400c1aacac443e48248ba99504c964df35407686da75a2cc7e972db7689559",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 1:30PM - 2:50PM",
+          "room": "Engineering West 021 -0133",
+          "instructor": "William Saucier",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=1306",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$23",
+        "retrievedAt": "2026-10-30T00:54:56.536Z",
+        "sha256": "b6361f3fbd3c1716650a360a00c6d688c1a30c4c6a46716e0205aafe79292b3a",
+        "evidenceFile": "0048.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:56.536Z",
+      "updatedAt": "2026-10-30T00:54:56.536Z",
+      "lastSeenAt": "2026-10-30T00:54:56.536Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "3310",
+      "title": "Air and Space",
+      "crn": "1286",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:dac9edeba72ca9748b6d010f2b6d6d69a977ca742d8b4b37e17ce42625007343",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 3:00PM - 4:20PM",
+          "room": "Engineering West 021 -0133",
+          "instructor": "Dan Biezad",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$24",
+        "retrievedAt": "2026-10-30T00:54:58.644Z",
+        "sha256": "c6dd7ca5c88f2b6d90e11c9151e01174670ced5f77a64f86ee830953ace632c2",
+        "evidenceFile": "0050.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:54:58.644Z",
+      "updatedAt": "2026-10-30T00:54:58.644Z",
+      "lastSeenAt": "2026-10-30T00:54:58.644Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "3310",
+      "title": "Air and Space",
+      "crn": "1287",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:a0aaf67d591a82dde5636e8e89c1c10620e3ae572e3ebc98587fd2c489745e9f",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 12:00PM - 1:20PM",
+          "room": "Erhart Agriculture 010 -0227",
+          "instructor": "Dan Biezad",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$25",
+        "retrievedAt": "2026-10-30T00:55:00.922Z",
+        "sha256": "c2cb050d83742f420c6f87d1f996ebd3b5864f96ad9fb4a338fb94b251336177",
+        "evidenceFile": "0052.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:00.922Z",
+      "updatedAt": "2026-10-30T00:55:00.922Z",
+      "lastSeenAt": "2026-10-30T00:55:00.922Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "3331",
+      "title": "Aerospace Structural Analysis I",
+      "crn": "1292",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:198b90b06b6ca123354f69110a92d91cd8c4cbb64f2b83346c5a12b182fd6ec4",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "4 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 12:00PM - 1:50PM",
+          "room": "Engineering IV 0106",
+          "instructor": "Amuthan Ramabathiran",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$26",
+        "retrievedAt": "2026-10-30T00:55:03.045Z",
+        "sha256": "b9e2ba3eef31c243eb034149d4de0c893f88b9d9a2b8223a9d8eb39f5f677abd",
+        "evidenceFile": "0054.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:03.045Z",
+      "updatedAt": "2026-10-30T00:55:03.045Z",
+      "lastSeenAt": "2026-10-30T00:55:03.045Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "3361",
+      "title": "Introduction to AERO for Transfer Students",
+      "crn": "1351",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:6ed0976e2d4a37b132c7eb2d4f246c44c51c8bfa88ee59b79a91ad083529ed05",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "1 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Th 3:00PM - 3:50PM",
+          "room": "Math & Science 038 -0225",
+          "instructor": "Aseem Nevrekar",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$27",
+        "retrievedAt": "2026-10-30T00:55:05.140Z",
+        "sha256": "b8df9602c2384b2c1e704ab1c3e00427b885dc050d3987444258f101ed28b350",
+        "evidenceFile": "0056.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:05.140Z",
+      "updatedAt": "2026-10-30T00:55:05.140Z",
+      "lastSeenAt": "2026-10-30T00:55:05.140Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "3361",
+      "title": "Introduction to AERO for Transfer Students",
+      "crn": "8768",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:9cf4f12153f5677cf0fed797130a968d756f65e24d4186314a77cdeb8862184e",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "We 9:00AM - 9:50AM",
+          "room": "Engineering IV 0321",
+          "instructor": "Aseem Nevrekar",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$28",
+        "retrievedAt": "2026-10-30T00:55:07.109Z",
+        "sha256": "c3ff593fac7baf19d256d9c459571c855c463992b3ac302710d6e9f7e68f9f2d",
+        "evidenceFile": "0058.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:07.109Z",
+      "updatedAt": "2026-10-30T00:55:07.109Z",
+      "lastSeenAt": "2026-10-30T00:55:07.109Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "3361",
+      "title": "Introduction to AERO for Transfer Students",
+      "crn": "8769",
+      "sectionNumber": "S03",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:6593572c57a0150b2de0cbc652ab60b93b8ce7d4c3f2e719f2fcf0915a9d9986",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "1 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "We 10:00AM - 10:50AM",
+          "room": "Engineering IV 0321",
+          "instructor": "Aseem Nevrekar",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$29",
+        "retrievedAt": "2026-10-30T00:55:09.392Z",
+        "sha256": "8c66629efcc78d2edf0a5f4d7479765d2e644713f3cf2e891a58fe8fd481b7f7",
+        "evidenceFile": "0060.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:09.392Z",
+      "updatedAt": "2026-10-30T00:55:09.392Z",
+      "lastSeenAt": "2026-10-30T00:55:09.392Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "3460",
+      "title": "Aerospace Engineering Professional Preparation",
+      "crn": "1339",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:959183d05e146335c6f77eac3141830c57b6121d1f0a07fc5c8fdec2e91b2a43",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "1 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "We 2:00PM - 2:50PM",
+          "room": "Engineering IV 0321",
+          "instructor": "Eric Mehiel",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$30",
+        "retrievedAt": "2026-10-30T00:55:12.126Z",
+        "sha256": "d9a222052f80370eaf7219a1fcc62063c094ec6fde6678690d73bfd04b28645e",
+        "evidenceFile": "0062.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:12.126Z",
+      "updatedAt": "2026-10-30T00:55:12.126Z",
+      "lastSeenAt": "2026-10-30T00:55:12.126Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "3460",
+      "title": "Aerospace Engineering Professional Preparation",
+      "crn": "1340",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:8e6f822bf99752f2652757e8bd9a34c04602971aba8472dd9b6ca176985790fd",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "1 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Mo 11:00AM - 11:50AM",
+          "room": "Engineering IV 0321",
+          "instructor": "Eric Mehiel",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$31",
+        "retrievedAt": "2026-10-30T00:55:14.165Z",
+        "sha256": "03f1ae438b70b561e5d0d65c33196897c5df4b125829525672795a17941b1e9e",
+        "evidenceFile": "0064.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:14.165Z",
+      "updatedAt": "2026-10-30T00:55:14.165Z",
+      "lastSeenAt": "2026-10-30T00:55:14.165Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "4400",
+      "title": "Special Problems for Advanced Undergraduates",
+      "crn": "1293",
+      "sectionNumber": "S01",
+      "component": "IND",
+      "session": "Regular",
+      "id": "scheduleSection:4d3798290369cab91223fb20f011da76fecc9ef23fa21f89b06c4ae4c2019d59",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 - 3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Eric Mehiel",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$32",
+        "retrievedAt": "2026-10-30T00:55:16.277Z",
+        "sha256": "8a9bffad8f5eb19a7e1007810ba81c7f7a38466c9e1c448288eaa6fd41048cb2",
+        "evidenceFile": "0066.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:16.277Z",
+      "updatedAt": "2026-10-30T00:55:16.277Z",
+      "lastSeenAt": "2026-10-30T00:55:16.277Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "4408",
+      "title": "Re-Entry Aerodynamics",
+      "crn": "1307",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:b8c8080268dcd33efb3e8288e133d23038e67d5d3f3fd757ce3529806006d94d",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "WeFr 9:00AM - 10:20AM",
+          "room": "Dexter Building 034 -0228",
+          "instructor": "Nandeesh Hiremath",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$33",
+        "retrievedAt": "2026-10-30T00:55:19.139Z",
+        "sha256": "79b85ee301f28b2b65931e141360eef2cdd559eff4bb4ef3a6838166c11bf755",
+        "evidenceFile": "0068.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:19.139Z",
+      "updatedAt": "2026-10-30T00:55:19.139Z",
+      "lastSeenAt": "2026-10-30T00:55:19.139Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "4409",
+      "title": "Aerospace Flight Test",
+      "crn": "1308",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:8921fc8c235c859eaef085f8cd84745c6dc368ef139db55770ec2e5aea85083a",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Mo 11:00AM - 11:50AM",
+          "room": "Off Campus Location",
+          "instructor": "Paulo Iscold",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$34",
+        "retrievedAt": "2026-10-30T00:55:22.030Z",
+        "sha256": "14700079f255947326b19d070df6663f2b342cd0e2400523e522fc8437ceac63",
+        "evidenceFile": "0070.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:22.030Z",
+      "updatedAt": "2026-10-30T00:55:22.030Z",
+      "lastSeenAt": "2026-10-30T00:55:22.030Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "4409",
+      "title": "Aerospace Flight Test",
+      "crn": "1354",
+      "sectionNumber": "S02",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:841f784d239a091b3dcdcb844920863a1abf2d0d6f43b461a7f8fad26ed704c9",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 8:00AM - 10:50AM",
+          "room": "Off Campus Location",
+          "instructor": "Paulo Iscold",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$35",
+        "retrievedAt": "2026-10-30T00:55:24.138Z",
+        "sha256": "dba21096060495c24f0b0cb395b1a95b652987cc8eec31354983176bd2537bd7",
+        "evidenceFile": "0072.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:24.138Z",
+      "updatedAt": "2026-10-30T00:55:24.138Z",
+      "lastSeenAt": "2026-10-30T00:55:24.138Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "4420",
+      "title": "Aircraft Dynamics and Control",
+      "crn": "9175",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:a58076bb52a533e718b39cfe70b09d9e336e33d9de53053c49db66a24feaa8a1",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 9:00AM - 10:20AM",
+          "room": "Engineering West 021 -0204",
+          "instructor": "Aseem Nevrekar",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$36",
+        "retrievedAt": "2026-10-30T00:55:25.930Z",
+        "sha256": "5893a10eff6b1ea5716d25b53f2c487ad517ab1ff64d8bbc76863914ee9b7231",
+        "evidenceFile": "0074.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:25.930Z",
+      "updatedAt": "2026-10-30T00:55:25.930Z",
+      "lastSeenAt": "2026-10-30T00:55:25.930Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "4425",
+      "title": "Aircraft Performance",
+      "crn": "1338",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:6719a7ef76d8c1f2d3a751bacd96063b57b4b0e6352d9c59a5e42a0713ed4eb3",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 3:00PM - 4:20PM",
+          "room": "Engineering IV 0321",
+          "instructor": "Sky Sartorius",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$37",
+        "retrievedAt": "2026-10-30T00:55:28.617Z",
+        "sha256": "916a57db3b8aeee5664c01d5392ec50ac1e18fe18164c893c4af28f562318998",
+        "evidenceFile": "0076.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:28.617Z",
+      "updatedAt": "2026-10-30T00:55:28.617Z",
+      "lastSeenAt": "2026-10-30T00:55:28.617Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "4433",
+      "title": "Experimental Stress Analysis",
+      "crn": "1262",
+      "sectionNumber": "S03",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:f9d66d51e110751e1f6272578b8168e9fc1c695ae9505a72a65fc79d7490b730",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "1 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Tu 9:00AM - 11:50AM",
+          "room": "Engineering III 041 -0136",
+          "instructor": "Eric Paton",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$38",
+        "retrievedAt": "2026-10-30T00:55:30.811Z",
+        "sha256": "3ca2844b7cee46a418420b1d0934ff052d3af1892d239e2e68c1848e5ecdd0ac",
+        "evidenceFile": "0078.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:30.811Z",
+      "updatedAt": "2026-10-30T00:55:30.811Z",
+      "lastSeenAt": "2026-10-30T00:55:30.811Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "4433",
+      "title": "Experimental Stress Analysis",
+      "crn": "1263",
+      "sectionNumber": "S04",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:18c54ba1e3abb87cbc955b0519d695488fdba0e663b1f40540baf028cb74565d",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "1 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Th 9:00AM - 11:50AM",
+          "room": "Engineering III 041 -0136",
+          "instructor": "Eric Paton",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$39",
+        "retrievedAt": "2026-10-30T00:55:32.578Z",
+        "sha256": "4cee4bfe80b4e6fb4fd1efda5ac1f7fc2920de9919240c4303ba5c901c36fc68",
+        "evidenceFile": "0080.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:32.578Z",
+      "updatedAt": "2026-10-30T00:55:32.578Z",
+      "lastSeenAt": "2026-10-30T00:55:32.578Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "4433",
+      "title": "Experimental Stress Analysis",
+      "crn": "8512",
+      "sectionNumber": "S05",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:bf72bc271cb3931f8025aae13d8e3ef5080b1067772aea5b1d69a103baf84f32",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Tu 3:00PM - 5:50PM",
+          "room": "Engineering III 041 -0136",
+          "instructor": "Eric Paton",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$40",
+        "retrievedAt": "2026-10-30T00:55:34.696Z",
+        "sha256": "484a85d0d303c9fe78dc769e01ecbd8b10f9c00103f85fae378332a02e272363",
+        "evidenceFile": "0082.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:34.696Z",
+      "updatedAt": "2026-10-30T00:55:34.696Z",
+      "lastSeenAt": "2026-10-30T00:55:34.696Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "4433",
+      "title": "Experimental Stress Analysis",
+      "crn": "8513",
+      "sectionNumber": "S06",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:483fc8aed71a0d0e41bfd4add5e9f6338c0597b0c4d0aea2a05012b76fab6c27",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Th 3:00PM - 5:50PM",
+          "room": "Engineering III 041 -0136",
+          "instructor": "Eric Paton",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$41",
+        "retrievedAt": "2026-10-30T00:55:36.766Z",
+        "sha256": "9d6ab81a84bd7384b51112deaabad744ef06a810d070a125967939ae9ee82f2c",
+        "evidenceFile": "0084.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:36.766Z",
+      "updatedAt": "2026-10-30T00:55:36.766Z",
+      "lastSeenAt": "2026-10-30T00:55:36.766Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "4450",
+      "title": "Introduction to Aerospace Systems Engineering",
+      "crn": "1352",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:c8dfd0dcc238d1dfe98e5f908037d5def08881d501ed7f104652263d146fe441",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 9:00AM - 10:20AM",
+          "room": "Science 0E46",
+          "instructor": "Aaron Drake",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$42",
+        "retrievedAt": "2026-10-30T00:55:38.867Z",
+        "sha256": "8f850e61be1839b80bc839c8c545a3e5f9d12acf7b6f0b1a8fb7f8218c92cf3c",
+        "evidenceFile": "0086.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:38.867Z",
+      "updatedAt": "2026-10-30T00:55:38.867Z",
+      "lastSeenAt": "2026-10-30T00:55:38.867Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "4452",
+      "title": "Intermediate Orbital Mechanics",
+      "crn": "1309",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:5e05bf3b7fcaf4cadc93054e9c162ee961f503c9e97c37ef585d046219a207dd",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 12:00PM - 1:20PM",
+          "room": "Frank E. Pilling 014 -0252",
+          "instructor": "Kira Abercromby",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=1309",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$43",
+        "retrievedAt": "2026-10-30T00:55:41.612Z",
+        "sha256": "bf17d78f25a33ddbb45a32e723025f9a664ecad59aee0d659ea4134ffde072e1",
+        "evidenceFile": "0088.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:41.612Z",
+      "updatedAt": "2026-10-30T00:55:41.612Z",
+      "lastSeenAt": "2026-10-30T00:55:41.612Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "4461",
+      "title": "Aircraft Design Senior Project I",
+      "crn": "1264",
+      "sectionNumber": "S01",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:a11da665b898a5143508fb474ace5ab57790cc5444a28dc25b957d569d75f76c",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWeFr 12:00PM - 2:50PM",
+          "room": "Engineering IV 0327",
+          "instructor": "Aaron Drake, Paulo Iscold",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$44",
+        "retrievedAt": "2026-10-30T00:55:43.603Z",
+        "sha256": "ce4d828ef2e67112b2db5d3b0c240a60933c290b986f0766e2330470151c3a37",
+        "evidenceFile": "0090.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:43.603Z",
+      "updatedAt": "2026-10-30T00:55:43.603Z",
+      "lastSeenAt": "2026-10-30T00:55:43.603Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "4461",
+      "title": "Aircraft Design Senior Project I",
+      "crn": "1265",
+      "sectionNumber": "S02",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:36bd7a669dc7af90d9a143cdfe77ef583f5cbf7cae16a3fcd3309de34013a2cb",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWeFr 3:00PM - 5:50PM",
+          "room": "Engineering IV 0327",
+          "instructor": "Paulo Iscold, Aaron Drake",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$45",
+        "retrievedAt": "2026-10-30T00:55:45.631Z",
+        "sha256": "a3e370bd816e716f0870e483bed001160d0140436c264fc2e516be233d67b963",
+        "evidenceFile": "0092.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:45.631Z",
+      "updatedAt": "2026-10-30T00:55:45.631Z",
+      "lastSeenAt": "2026-10-30T00:55:45.631Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "4463",
+      "title": "Spacecraft Design Senior Project I",
+      "crn": "1355",
+      "sectionNumber": "S01",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:096ead97cff88ec580c19346b79ac8f5da2b7bb7088d22f18a47bb9c8174e4f6",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWeFr 12:00PM - 2:50PM",
+          "room": "Engineering IV 0323",
+          "instructor": "Stephen Kwok-Choon, Michael Sobczak, Richard Milford",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$46",
+        "retrievedAt": "2026-10-30T00:55:47.827Z",
+        "sha256": "7a3b1c9bebf1d3df3d1452c616cdcc688ed0ceafa11672fa1a914c6b37e9a07a",
+        "evidenceFile": "0094.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:47.827Z",
+      "updatedAt": "2026-10-30T00:55:47.827Z",
+      "lastSeenAt": "2026-10-30T00:55:47.827Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "4463",
+      "title": "Spacecraft Design Senior Project I",
+      "crn": "1356",
+      "sectionNumber": "S02",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:1fddff44fdbd3145287b18683a6132093428b2b85f15e8923f9d9378d5b72ce4",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWeFr 8:00AM - 10:50AM",
+          "room": "Engineering IV 0323",
+          "instructor": "Michael Sobczak, Stephen Kwok-Choon, Richard Milford",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$47",
+        "retrievedAt": "2026-10-30T00:55:50.674Z",
+        "sha256": "2a691f68cde72149c2b3da778d847cf30b39fecb94a1af8888c1d9b23f0a5c14",
+        "evidenceFile": "0096.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:50.674Z",
+      "updatedAt": "2026-10-30T00:55:50.674Z",
+      "lastSeenAt": "2026-10-30T00:55:50.674Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "4470",
+      "title": "Special Advanced Topics",
+      "crn": "8396",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:0f6b6e1dbd76f87d2258659f676e23769041161466d5f819d8b72b7ab61576b1",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 1:30PM - 2:50PM",
+          "room": "Engineering IV 0322",
+          "instructor": "Lubos Brieda",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=8396",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$48",
+        "retrievedAt": "2026-10-30T00:55:53.190Z",
+        "sha256": "3fdc9174de07c10d2890befa1069052194b8bf12e8455b1c481216f8cd01aa09",
+        "evidenceFile": "0098.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:53.190Z",
+      "updatedAt": "2026-10-30T00:55:53.190Z",
+      "lastSeenAt": "2026-10-30T00:55:53.190Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "4470",
+      "title": "Special Advanced Topics",
+      "crn": "8395",
+      "sectionNumber": "S03",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:e96f243b7160dacd4c70634ed67a9f084372f74149f03250bb9d7eacbe03d790",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "2 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 3:00PM - 3:50PM",
+          "room": "Engineering West 021 -0235",
+          "instructor": "Stephen Kwok-Choon",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=8395",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$49",
+        "retrievedAt": "2026-10-30T00:55:56.208Z",
+        "sha256": "26846b423b08240db291440c8595351662e06bae233fb909d113da9bb41949f3",
+        "evidenceFile": "0100.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:56.208Z",
+      "updatedAt": "2026-10-30T00:55:56.208Z",
+      "lastSeenAt": "2026-10-30T00:55:56.208Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "4470",
+      "title": "Special Advanced Topics",
+      "crn": "8398",
+      "sectionNumber": "S04",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:d07cd7d8623bb836a4b693345aae0b818ed734dab8e2c14f51253308d2a4932f",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 4:30PM - 5:50PM",
+          "room": "Engineering IV 0321",
+          "instructor": "Robert Crockett",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$50",
+        "retrievedAt": "2026-10-30T00:55:58.565Z",
+        "sha256": "ea6ecb106cd57d1dccf42f4beaa706ed4ba4a48896aebe92b0058bb860ed106f",
+        "evidenceFile": "0102.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:55:58.565Z",
+      "updatedAt": "2026-10-30T00:55:58.565Z",
+      "lastSeenAt": "2026-10-30T00:55:58.565Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "4471",
+      "title": "Special Advanced Laboratory",
+      "crn": "1311",
+      "sectionNumber": "S01",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:38c6d157f8c7903606acc9767e57186cb4e87544295468ac1ebcb5f9d4c391e6",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "2 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 9:00AM - 11:50AM",
+          "room": "Off Campus Location",
+          "instructor": "Eric Paton",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$51",
+        "retrievedAt": "2026-10-30T00:56:00.763Z",
+        "sha256": "7381ad4429b9e4a034316bd85aac2e8a85b447e316d455b9bea0c267baea1eda",
+        "evidenceFile": "0104.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:56:00.763Z",
+      "updatedAt": "2026-10-30T00:56:00.763Z",
+      "lastSeenAt": "2026-10-30T00:56:00.763Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "5500",
+      "title": "Individual Study",
+      "crn": "1312",
+      "sectionNumber": "S01",
+      "component": "IND",
+      "session": "Regular",
+      "id": "scheduleSection:08492de9498978cb09514e3b03d901bb7197628e1c51c93f1e3cd92fdf104a7b",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 - 3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Eric Mehiel",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$52",
+        "retrievedAt": "2026-10-30T00:56:02.852Z",
+        "sha256": "55b7628b6e5b692336ee36ddcf746a8929dea874e5f6a9d78f1ac2be0f3a2577",
+        "evidenceFile": "0106.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:56:02.852Z",
+      "updatedAt": "2026-10-30T00:56:02.852Z",
+      "lastSeenAt": "2026-10-30T00:56:02.852Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "5522",
+      "title": "Boundary-Layer Theory",
+      "crn": "1324",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:2d769ca16de87a9127c3c7045a269da2643edb8623949b24f762feef9908a0cf",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 12:00PM - 1:20PM",
+          "room": "Engineering East 020 -0143",
+          "instructor": "David Marshall",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=1324",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$53",
+        "retrievedAt": "2026-10-30T00:56:04.832Z",
+        "sha256": "8b3ccc3e34361100a261ec028c216d1cfd965200c40d4d200385d9fb4aee920a",
+        "evidenceFile": "0108.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:56:04.832Z",
+      "updatedAt": "2026-10-30T00:56:04.832Z",
+      "lastSeenAt": "2026-10-30T00:56:04.832Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "5534",
+      "title": "Aerospace Structural Dynamics Analysis",
+      "crn": "1266",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:fd36a4e47ef5d5ea05a8888aec53ce0c2e3eed390655721e2e15693d6caceb84",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 10:30AM - 11:50AM",
+          "room": "Engineering East 020 -0143",
+          "instructor": "Amuthan Ramabathiran",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$54",
+        "retrievedAt": "2026-10-30T00:56:07.092Z",
+        "sha256": "fd05f66cceb7e28c2f406700b5905c1d40142d5f08f02411e5f313a903f116a7",
+        "evidenceFile": "0110.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:56:07.092Z",
+      "updatedAt": "2026-10-30T00:56:07.092Z",
+      "lastSeenAt": "2026-10-30T00:56:07.092Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "5553",
+      "title": "Advanced Control Theory",
+      "crn": "1337",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:abb2df92999a32fdd3d8bbbedf34c408674715af29615ff21c69318a5b643764",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 1:30PM - 2:50PM",
+          "room": "Engineering IV 0321",
+          "instructor": "Eric Mehiel",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$55",
+        "retrievedAt": "2026-10-30T00:56:09.349Z",
+        "sha256": "14a297245aa13d396d690efdbd3613a366d38500ef78d0f66741925e535c8785",
+        "evidenceFile": "0112.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:56:09.349Z",
+      "updatedAt": "2026-10-30T00:56:09.349Z",
+      "lastSeenAt": "2026-10-30T00:56:09.349Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "5570",
+      "title": "Special Advanced Topics",
+      "crn": "8748",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:cb60a959428048914120e002c59c20086e6b79055737c61f119bbf40631103a5",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "2 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Mo 10:00AM - 11:50AM",
+          "room": "Engineering IV 0322",
+          "instructor": "Craig McKown",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$56",
+        "retrievedAt": "2026-10-30T00:56:11.641Z",
+        "sha256": "def18fa834f608497e313bcd486b7efd4292552a5260e69f866927e083f630e4",
+        "evidenceFile": "0114.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:56:11.641Z",
+      "updatedAt": "2026-10-30T00:56:11.641Z",
+      "lastSeenAt": "2026-10-30T00:56:11.641Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "5571",
+      "title": "Special Advanced Laboratory",
+      "crn": "8594",
+      "sectionNumber": "S01",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:9151f447413080460f4054f1f33795818b0903effa293d56a400e9c50189476a",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "Tu 9:00AM - 11:50AM",
+          "room": "Engineering IV 0321",
+          "instructor": "Craig McKown",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$57",
+        "retrievedAt": "2026-10-30T00:56:14.500Z",
+        "sha256": "67b7289d4da19fc7c2da781fa16142ba63f8f4a28047fd90b2603d1d0e1122da",
+        "evidenceFile": "0116.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:56:14.500Z",
+      "updatedAt": "2026-10-30T00:56:14.500Z",
+      "lastSeenAt": "2026-10-30T00:56:14.500Z"
+    },
+    {
+      "subject": "AERO",
+      "number": "5599",
+      "title": "Thesis",
+      "crn": "1325",
+      "sectionNumber": "S01",
+      "component": "IND",
+      "session": "Regular",
+      "id": "scheduleSection:c748d806c6f9738b65f7e2b785aaef6976bf3d921ef7e508da3165cb71409d8e",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "1 - 6 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TBA",
+          "room": "TBA",
+          "instructor": "Eric Mehiel",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$58",
+        "retrievedAt": "2026-10-30T00:56:16.616Z",
+        "sha256": "6828ba941687f2ae429c0382c83b8af5b7f3dc2b0c27d09a8253e4a83c8214b7",
+        "evidenceFile": "0118.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005337-296a68fa/AERO/.runs/extract-1/20261030T005356-871d2fdd/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "AERO",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "0c330cda2c83956ad31cc01c4bc6800c0e4f6b4972830dbf855fefa55a8c889a"
+      },
+      "firstSeenAt": "2026-10-30T00:56:16.616Z",
+      "updatedAt": "2026-10-30T00:56:16.616Z",
+      "lastSeenAt": "2026-10-30T00:56:16.616Z"
+    }
+  ]
+}

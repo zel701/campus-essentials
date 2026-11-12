@@ -1,0 +1,992 @@
+{
+  "schemaVersion": 1,
+  "scope": {
+    "institution": "SLCMP",
+    "termId": "2268",
+    "campus": "MAIN",
+    "subject": "DATA",
+    "courseNumber": null,
+    "includeClosed": true
+  },
+  "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+  "mode": "live",
+  "capturePath": "data/sections/.runs/pipeline/20261030T005649-7d41a528/DATA/.runs/extract-1/20261030T005656-a93682b4/capture.json",
+  "generatedAt": "2026-10-30T00:57:41.206Z",
+  "complete": true,
+  "contentSha256": "db2b26e69465fd1b6f5a8292086e0a25e1d0a8c0d4caba00ad1a47fc6d095cf6",
+  "sectionCount": 21,
+  "courseCount": 9,
+  "termLabel": "Cal Poly | Fall Semester 2026",
+  "sections": [
+    {
+      "subject": "DATA",
+      "number": "1000",
+      "title": "Statistical and Data Literacy",
+      "crn": "9471",
+      "sectionNumber": "S03",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:a8fc4e985a6c0d7cee1902679c0ea08162ea3f4fc54a2b46e6144b496109aafe",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 7:30AM - 8:50AM",
+          "room": "Constr Innovations Center C302",
+          "instructor": "Kevin Ross",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$0",
+        "retrievedAt": "2026-10-30T00:57:01.087Z",
+        "sha256": "ba3bd6b810be175dc4a7f5ec6053ff9871d92f7cbb49a5df36fc81ea2ac65a60",
+        "evidenceFile": "0001.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005649-7d41a528/DATA/.runs/extract-1/20261030T005656-a93682b4/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "DATA",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "b7bc868c2ef52d892544cc340bd0be74bae2be3fa97d30fbd5624547d93c1673"
+      },
+      "firstSeenAt": "2026-10-30T00:57:01.087Z",
+      "updatedAt": "2026-10-30T00:57:01.087Z",
+      "lastSeenAt": "2026-10-30T00:57:01.087Z"
+    },
+    {
+      "subject": "DATA",
+      "number": "1000",
+      "title": "Statistical and Data Literacy",
+      "crn": "9472",
+      "sectionNumber": "S04",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:ad4a6938f8316640566e1e95d295a188c130c4a33d61426348d1fc367a37597c",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 9:00AM - 10:20AM",
+          "room": "Constr Innovations Center C302",
+          "instructor": "Kevin Ross",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$1",
+        "retrievedAt": "2026-10-30T00:57:02.954Z",
+        "sha256": "9b8fff3596fefc124727035f9f3a3b70c25cc1e4a61a20cf973ad43e6bb2f02c",
+        "evidenceFile": "0003.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005649-7d41a528/DATA/.runs/extract-1/20261030T005656-a93682b4/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "DATA",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "b7bc868c2ef52d892544cc340bd0be74bae2be3fa97d30fbd5624547d93c1673"
+      },
+      "firstSeenAt": "2026-10-30T00:57:02.954Z",
+      "updatedAt": "2026-10-30T00:57:02.954Z",
+      "lastSeenAt": "2026-10-30T00:57:02.954Z"
+    },
+    {
+      "subject": "DATA",
+      "number": "1810",
+      "title": "Introduction to Statistical Computing with R",
+      "crn": "5704",
+      "sectionNumber": "S02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:afbf152da0482ef0ac1e82965fbac86048695d97c77bfebb215119a7b760730d",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 7:30AM - 8:50AM",
+          "room": "Math & Science 038 -0122",
+          "instructor": "Immanuel Williams",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$2",
+        "retrievedAt": "2026-10-30T00:57:04.923Z",
+        "sha256": "0d2a9d4925dec07c16033f6b73f939be2de8e2fe66c601413edd5b3589765379",
+        "evidenceFile": "0005.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005649-7d41a528/DATA/.runs/extract-1/20261030T005656-a93682b4/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "DATA",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "b7bc868c2ef52d892544cc340bd0be74bae2be3fa97d30fbd5624547d93c1673"
+      },
+      "firstSeenAt": "2026-10-30T00:57:04.923Z",
+      "updatedAt": "2026-10-30T00:57:04.923Z",
+      "lastSeenAt": "2026-10-30T00:57:04.923Z"
+    },
+    {
+      "subject": "DATA",
+      "number": "1810",
+      "title": "Introduction to Statistical Computing with R",
+      "crn": "5705",
+      "sectionNumber": "S03",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:e3cd8b791a252e1028a988f3bfc6600914d0785cdaeb6230ddaae7425b416c0a",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 9:00AM - 10:20AM",
+          "room": "Math & Science 038 -0122",
+          "instructor": "Immanuel Williams",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$3",
+        "retrievedAt": "2026-10-30T00:57:07.058Z",
+        "sha256": "1254044f71b4f442cec079a275523e8b74534aff4f6017fded535e58f4511984",
+        "evidenceFile": "0007.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005649-7d41a528/DATA/.runs/extract-1/20261030T005656-a93682b4/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "DATA",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "b7bc868c2ef52d892544cc340bd0be74bae2be3fa97d30fbd5624547d93c1673"
+      },
+      "firstSeenAt": "2026-10-30T00:57:07.058Z",
+      "updatedAt": "2026-10-30T00:57:07.058Z",
+      "lastSeenAt": "2026-10-30T00:57:07.058Z"
+    },
+    {
+      "subject": "DATA",
+      "number": "1810",
+      "title": "Introduction to Statistical Computing with R",
+      "crn": "5706",
+      "sectionNumber": "S04",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:cd883d3738dd7c06287240459bd7df3b9d263d45a64b062fccf68543f95beabd",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 10:30AM - 11:50AM",
+          "room": "Math & Science 038 -0122",
+          "instructor": "Immanuel Williams",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$4",
+        "retrievedAt": "2026-10-30T00:57:09.008Z",
+        "sha256": "e8d7779eb78c9f042bc685f7a8e66f58d84fe3a9de39c05a7544754181bab259",
+        "evidenceFile": "0009.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005649-7d41a528/DATA/.runs/extract-1/20261030T005656-a93682b4/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "DATA",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "b7bc868c2ef52d892544cc340bd0be74bae2be3fa97d30fbd5624547d93c1673"
+      },
+      "firstSeenAt": "2026-10-30T00:57:09.008Z",
+      "updatedAt": "2026-10-30T00:57:09.008Z",
+      "lastSeenAt": "2026-10-30T00:57:09.008Z"
+    },
+    {
+      "subject": "DATA",
+      "number": "3301",
+      "title": "Introduction to Data Science",
+      "crn": "5707",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:40b70e10679af6e42319e0c87763e36ec81a4ed921016d851c64e407dace8a76",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "4 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 3:00PM - 4:20PM",
+          "room": "Baker Ctr Sci & Math 180 -0272",
+          "instructor": "Alex Dekhtyar",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$5",
+        "retrievedAt": "2026-10-30T00:57:11.194Z",
+        "sha256": "bf0eb94f2d58a394a8fe163eec452919ced423d132cbba6ac4f41b343c3d0ea7",
+        "evidenceFile": "0011.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005649-7d41a528/DATA/.runs/extract-1/20261030T005656-a93682b4/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "DATA",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "b7bc868c2ef52d892544cc340bd0be74bae2be3fa97d30fbd5624547d93c1673"
+      },
+      "firstSeenAt": "2026-10-30T00:57:11.194Z",
+      "updatedAt": "2026-10-30T00:57:11.194Z",
+      "lastSeenAt": "2026-10-30T00:57:11.194Z"
+    },
+    {
+      "subject": "DATA",
+      "number": "3301",
+      "title": "Introduction to Data Science",
+      "crn": "5708",
+      "sectionNumber": "S02",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:cbc2518bd5a71c31248ff6ea32dc0258059e31c6deaf9036be14cbe616ff9467",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 4:30PM - 5:50PM",
+          "room": "Baker Ctr Sci & Math 180 -0272",
+          "instructor": "Alex Dekhtyar",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$6",
+        "retrievedAt": "2026-10-30T00:57:13.436Z",
+        "sha256": "c08e96d232862d343d5e08f69bdec7a73b435944940f2a89cd20d4daa3a8cb1f",
+        "evidenceFile": "0013.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005649-7d41a528/DATA/.runs/extract-1/20261030T005656-a93682b4/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "DATA",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "b7bc868c2ef52d892544cc340bd0be74bae2be3fa97d30fbd5624547d93c1673"
+      },
+      "firstSeenAt": "2026-10-30T00:57:13.436Z",
+      "updatedAt": "2026-10-30T00:57:13.436Z",
+      "lastSeenAt": "2026-10-30T00:57:13.436Z"
+    },
+    {
+      "subject": "DATA",
+      "number": "3301",
+      "title": "Introduction to Data Science",
+      "crn": "8567",
+      "sectionNumber": "S05",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:94be50d6f6013fd1bd1fbfe6c4efc897d9635134805cfda6dc9e7f4e94af3f2f",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "4 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 12:00PM - 1:20PM",
+          "room": "Engineering East 020 -0131",
+          "instructor": "Frank Elavsky",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$7",
+        "retrievedAt": "2026-10-30T00:57:15.335Z",
+        "sha256": "95695bc617341e58677148e070e24853f09f73fdb912a9f9fc9f98188a4f49b1",
+        "evidenceFile": "0015.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005649-7d41a528/DATA/.runs/extract-1/20261030T005656-a93682b4/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "DATA",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "b7bc868c2ef52d892544cc340bd0be74bae2be3fa97d30fbd5624547d93c1673"
+      },
+      "firstSeenAt": "2026-10-30T00:57:15.335Z",
+      "updatedAt": "2026-10-30T00:57:15.335Z",
+      "lastSeenAt": "2026-10-30T00:57:15.335Z"
+    },
+    {
+      "subject": "DATA",
+      "number": "3301",
+      "title": "Introduction to Data Science",
+      "crn": "8577",
+      "sectionNumber": "S06",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:4e09d088526564f6e67ae9b8d747ac95d2e88d4cc85ed8af7d9582787db9aa80",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 1:30PM - 2:50PM",
+          "room": "Engineering East 020 -0131",
+          "instructor": "Frank Elavsky",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$8",
+        "retrievedAt": "2026-10-30T00:57:17.429Z",
+        "sha256": "37aff0c05923c97cd93621d96cbd5fe8630c281fdad31a514167899cda8f1e4a",
+        "evidenceFile": "0017.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005649-7d41a528/DATA/.runs/extract-1/20261030T005656-a93682b4/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "DATA",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "b7bc868c2ef52d892544cc340bd0be74bae2be3fa97d30fbd5624547d93c1673"
+      },
+      "firstSeenAt": "2026-10-30T00:57:17.429Z",
+      "updatedAt": "2026-10-30T00:57:17.429Z",
+      "lastSeenAt": "2026-10-30T00:57:17.429Z"
+    },
+    {
+      "subject": "DATA",
+      "number": "3302",
+      "title": "Data Visualization",
+      "crn": "7891",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:f9ba20c25f9fe4f0e503912b75a0708da3c5690388f89c8166b867cae4ae378c",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "4 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWeFr 2:00PM - 2:50PM",
+          "room": "Constr Innovations Center C200",
+          "instructor": "Austin Wright",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$9",
+        "retrievedAt": "2026-10-30T00:57:19.069Z",
+        "sha256": "a74c6fe122ffb96d67faa0ec3677fd66d7de51f8b15e85a485db9ecf774f70b7",
+        "evidenceFile": "0019.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005649-7d41a528/DATA/.runs/extract-1/20261030T005656-a93682b4/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "DATA",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "b7bc868c2ef52d892544cc340bd0be74bae2be3fa97d30fbd5624547d93c1673"
+      },
+      "firstSeenAt": "2026-10-30T00:57:19.069Z",
+      "updatedAt": "2026-10-30T00:57:19.069Z",
+      "lastSeenAt": "2026-10-30T00:57:19.069Z"
+    },
+    {
+      "subject": "DATA",
+      "number": "3302",
+      "title": "Data Visualization",
+      "crn": "7897",
+      "sectionNumber": "S02",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:18b998a984850bdffeffde9234429f4a20629b10128ce307cdc7bd05f901d35d",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWeFr 3:00PM - 3:50PM",
+          "room": "Frank E. Pilling 014 -0257",
+          "instructor": "Austin Wright",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$10",
+        "retrievedAt": "2026-10-30T00:57:21.406Z",
+        "sha256": "0be9e29706dcc4053983704c22782684b9910b545f94f3c014c40f228cf65c99",
+        "evidenceFile": "0021.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005649-7d41a528/DATA/.runs/extract-1/20261030T005656-a93682b4/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "DATA",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "b7bc868c2ef52d892544cc340bd0be74bae2be3fa97d30fbd5624547d93c1673"
+      },
+      "firstSeenAt": "2026-10-30T00:57:21.406Z",
+      "updatedAt": "2026-10-30T00:57:21.406Z",
+      "lastSeenAt": "2026-10-30T00:57:21.406Z"
+    },
+    {
+      "subject": "DATA",
+      "number": "3800",
+      "title": "Introduction to Statistical Computing with SAS and SQL",
+      "crn": "5675",
+      "sectionNumber": "X01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:758a4cf6cf2790fb71024318d6debe8f5fc1c36d534bdfcc0ce496c71c86e8f2",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 3:00PM - 4:20PM",
+          "room": "Math & Science 038 -0122",
+          "instructor": "Jimmy Doi",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=5675",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$11",
+        "retrievedAt": "2026-10-30T00:57:23.300Z",
+        "sha256": "fc04b0f52bdd2d958e26553054a8bd310e8e603b4305c497d929f37f2b5485dc",
+        "evidenceFile": "0023.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005649-7d41a528/DATA/.runs/extract-1/20261030T005656-a93682b4/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "DATA",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "b7bc868c2ef52d892544cc340bd0be74bae2be3fa97d30fbd5624547d93c1673"
+      },
+      "firstSeenAt": "2026-10-30T00:57:23.300Z",
+      "updatedAt": "2026-10-30T00:57:23.300Z",
+      "lastSeenAt": "2026-10-30T00:57:23.300Z"
+    },
+    {
+      "subject": "DATA",
+      "number": "3800",
+      "title": "Introduction to Statistical Computing with SAS and SQL",
+      "crn": "5676",
+      "sectionNumber": "X02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:ce254c04cef582482eea94139f43c0a409fc264fae957e6013a757eba7281844",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 4:30PM - 5:50PM",
+          "room": "Math & Science 038 -0122",
+          "instructor": "Jimmy Doi",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=5676",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$12",
+        "retrievedAt": "2026-10-30T00:57:25.132Z",
+        "sha256": "1f651a97b5aee0a319d8fbd14d91d420663a3dc37a7d54155db7fceb2c2c079c",
+        "evidenceFile": "0025.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005649-7d41a528/DATA/.runs/extract-1/20261030T005656-a93682b4/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "DATA",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "b7bc868c2ef52d892544cc340bd0be74bae2be3fa97d30fbd5624547d93c1673"
+      },
+      "firstSeenAt": "2026-10-30T00:57:25.132Z",
+      "updatedAt": "2026-10-30T00:57:25.132Z",
+      "lastSeenAt": "2026-10-30T00:57:25.132Z"
+    },
+    {
+      "subject": "DATA",
+      "number": "4401",
+      "title": "Data Science Process and Ethics",
+      "crn": "5714",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:270a630a52f3f0bdf24599ddebdedda4abbf68541d32078fe79f88e579b63cc5",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "4 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 9:00AM - 10:20AM",
+          "room": "Baker Ctr Sci & Math 180 -0272",
+          "instructor": "Alex Dekhtyar",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$13",
+        "retrievedAt": "2026-10-30T00:57:27.231Z",
+        "sha256": "aa7d064d1c90ba15e382030db6fcd364f7dbb10b6675df7f56a969310ef2c116",
+        "evidenceFile": "0027.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005649-7d41a528/DATA/.runs/extract-1/20261030T005656-a93682b4/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "DATA",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "b7bc868c2ef52d892544cc340bd0be74bae2be3fa97d30fbd5624547d93c1673"
+      },
+      "firstSeenAt": "2026-10-30T00:57:27.231Z",
+      "updatedAt": "2026-10-30T00:57:27.231Z",
+      "lastSeenAt": "2026-10-30T00:57:27.231Z"
+    },
+    {
+      "subject": "DATA",
+      "number": "4401",
+      "title": "Data Science Process and Ethics",
+      "crn": "5715",
+      "sectionNumber": "S02",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:e19dadb07168b5b447d19552df180435c32db951b3a51e0745e88d6721566d02",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWe 10:30AM - 11:50AM",
+          "room": "Baker Ctr Sci & Math 180 -0272",
+          "instructor": "Alex Dekhtyar",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$14",
+        "retrievedAt": "2026-10-30T00:57:29.381Z",
+        "sha256": "eb99de5bf80c7fc01a1f8e874ed50beae62d5d0ce03a9783f20751fb78b74221",
+        "evidenceFile": "0029.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005649-7d41a528/DATA/.runs/extract-1/20261030T005656-a93682b4/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "DATA",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "b7bc868c2ef52d892544cc340bd0be74bae2be3fa97d30fbd5624547d93c1673"
+      },
+      "firstSeenAt": "2026-10-30T00:57:29.381Z",
+      "updatedAt": "2026-10-30T00:57:29.381Z",
+      "lastSeenAt": "2026-10-30T00:57:29.381Z"
+    },
+    {
+      "subject": "DATA",
+      "number": "4610",
+      "title": "Fundamentals of Machine Learning",
+      "crn": "5734",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:9e806a00775c1b343e2d4e744a7db8797ec7385c8753e44582de460051df3078",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "4 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWeFr 9:00AM - 9:50AM",
+          "room": "English 022 -0315",
+          "instructor": "Paul Anderson",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$15",
+        "retrievedAt": "2026-10-30T00:57:31.488Z",
+        "sha256": "8b44fb13063e6369f79024954e0622d6a02680fd6cad42737a89aa2c73dad30a",
+        "evidenceFile": "0031.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005649-7d41a528/DATA/.runs/extract-1/20261030T005656-a93682b4/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "DATA",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "b7bc868c2ef52d892544cc340bd0be74bae2be3fa97d30fbd5624547d93c1673"
+      },
+      "firstSeenAt": "2026-10-30T00:57:31.488Z",
+      "updatedAt": "2026-10-30T00:57:31.488Z",
+      "lastSeenAt": "2026-10-30T00:57:31.488Z"
+    },
+    {
+      "subject": "DATA",
+      "number": "4610",
+      "title": "Fundamentals of Machine Learning",
+      "crn": "5735",
+      "sectionNumber": "S02",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:f3323180cf0e9c4698bf0b3b9bca939f9e9aa8510e4d242aba73a32015e837c4",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWeFr 10:00AM - 10:50AM",
+          "room": "English 022 -0315",
+          "instructor": "Paul Anderson",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$16",
+        "retrievedAt": "2026-10-30T00:57:33.342Z",
+        "sha256": "01d54e61f959c9022dd4ecc7997ac5abd9dbcc67a40a6401064d56dfea0c0d08",
+        "evidenceFile": "0033.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005649-7d41a528/DATA/.runs/extract-1/20261030T005656-a93682b4/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "DATA",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "b7bc868c2ef52d892544cc340bd0be74bae2be3fa97d30fbd5624547d93c1673"
+      },
+      "firstSeenAt": "2026-10-30T00:57:33.342Z",
+      "updatedAt": "2026-10-30T00:57:33.342Z",
+      "lastSeenAt": "2026-10-30T00:57:33.342Z"
+    },
+    {
+      "subject": "DATA",
+      "number": "4620",
+      "title": "Foundations and Applications of Deep Learning",
+      "crn": "5736",
+      "sectionNumber": "S01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:c05f40962ba11d13a3afcea1bf67cafe3ca5178c0f7dfd37ed6da049379f5a57",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "4 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWeFr 1:00PM - 1:50PM",
+          "room": "Constr Innovations Center C203",
+          "instructor": "Jonathan Ventura",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$17",
+        "retrievedAt": "2026-10-30T00:57:35.211Z",
+        "sha256": "47183568496116f5692d965fffece608825b419616eac9de69dfaa87897d5f26",
+        "evidenceFile": "0035.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005649-7d41a528/DATA/.runs/extract-1/20261030T005656-a93682b4/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "DATA",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "b7bc868c2ef52d892544cc340bd0be74bae2be3fa97d30fbd5624547d93c1673"
+      },
+      "firstSeenAt": "2026-10-30T00:57:35.211Z",
+      "updatedAt": "2026-10-30T00:57:35.211Z",
+      "lastSeenAt": "2026-10-30T00:57:35.211Z"
+    },
+    {
+      "subject": "DATA",
+      "number": "4620",
+      "title": "Foundations and Applications of Deep Learning",
+      "crn": "5737",
+      "sectionNumber": "S02",
+      "component": "LAB",
+      "session": "Regular",
+      "id": "scheduleSection:f8b133f4cd04af88cfc397343d615376909c507dd4e4c90d758bb0684758bcbd",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Closed",
+      "units": "0 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "MoWeFr 2:00PM - 2:50PM",
+          "room": "Frank E. Pilling 014 -0255",
+          "instructor": "Jonathan Ventura",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "not_listed",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$18",
+        "retrievedAt": "2026-10-30T00:57:37.331Z",
+        "sha256": "1a72bb6a768700bf0419a83e5f7863c9e66832733ad3d5086ca9a7f78bcfcab8",
+        "evidenceFile": "0037.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005649-7d41a528/DATA/.runs/extract-1/20261030T005656-a93682b4/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "DATA",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "b7bc868c2ef52d892544cc340bd0be74bae2be3fa97d30fbd5624547d93c1673"
+      },
+      "firstSeenAt": "2026-10-30T00:57:37.331Z",
+      "updatedAt": "2026-10-30T00:57:37.331Z",
+      "lastSeenAt": "2026-10-30T00:57:37.331Z"
+    },
+    {
+      "subject": "DATA",
+      "number": "5800",
+      "title": "Introduction to SAS and SQL for Graduate Students",
+      "crn": "8132",
+      "sectionNumber": "X01",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:1f3691236061f777ee992c3db8ba802169db4cffedeb8cb361cd518821f472d0",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 3:00PM - 4:20PM",
+          "room": "Math & Science 038 -0122",
+          "instructor": "Jimmy Doi",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=8132",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$19",
+        "retrievedAt": "2026-10-30T00:57:39.334Z",
+        "sha256": "698d310d84a66b2974c2090058dbf8dd671736f7c63a402d5a8953ce67629c13",
+        "evidenceFile": "0039.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005649-7d41a528/DATA/.runs/extract-1/20261030T005656-a93682b4/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "DATA",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "b7bc868c2ef52d892544cc340bd0be74bae2be3fa97d30fbd5624547d93c1673"
+      },
+      "firstSeenAt": "2026-10-30T00:57:39.334Z",
+      "updatedAt": "2026-10-30T00:57:39.334Z",
+      "lastSeenAt": "2026-10-30T00:57:39.334Z"
+    },
+    {
+      "subject": "DATA",
+      "number": "5800",
+      "title": "Introduction to SAS and SQL for Graduate Students",
+      "crn": "8133",
+      "sectionNumber": "X02",
+      "component": "LEC",
+      "session": "Regular",
+      "id": "scheduleSection:d299901fd8c1a3746d20595775bbab50e9a61cab619fc315eccdcc5c47492769",
+      "termId": "2268",
+      "termLabel": "Fall Semester 2026",
+      "campus": "MAIN",
+      "status": "Open",
+      "units": "3 units",
+      "instructionMode": "In Person",
+      "meetings": [
+        {
+          "daysAndTimes": "TuTh 4:30PM - 5:50PM",
+          "room": "Math & Science 038 -0122",
+          "instructor": "Jimmy Doi",
+          "dates": "08/24/2026 - 12/11/2026"
+        }
+      ],
+      "materialsLinkStatus": "available",
+      "materialsUrl": "https://www.bkstr.com/webApp/discoverView?bookstore_id-1=2020&term_id-1=2268&crn-1=8133",
+      "materialsVerificationStatus": "not_checked",
+      "source": {
+        "sourceUrl": "https://cmsweb.pscs.calpoly.edu/psc/CSLOPRD/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL",
+        "action": "MTG_CLASS_NBR$20",
+        "retrievedAt": "2026-10-30T00:57:41.198Z",
+        "sha256": "d261c6dae412ebbe517c7d608d2d43cbef3d1b363430a706363c1d3723b90a00",
+        "evidenceFile": "0041.html",
+        "capturePath": "data/sections/.runs/pipeline/20261030T005649-7d41a528/DATA/.runs/extract-1/20261030T005656-a93682b4/capture.json",
+        "query": {
+          "institution": "SLCMP",
+          "termId": "2268",
+          "campus": "MAIN",
+          "subject": "DATA",
+          "courseNumber": null,
+          "includeClosed": true
+        },
+        "resultsSha256": "b7bc868c2ef52d892544cc340bd0be74bae2be3fa97d30fbd5624547d93c1673"
+      },
+      "firstSeenAt": "2026-10-30T00:57:41.198Z",
+      "updatedAt": "2026-10-30T00:57:41.198Z",
+      "lastSeenAt": "2026-10-30T00:57:41.198Z"
+    }
+  ]
+}
